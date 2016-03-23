@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_442619637454989f35747bccd9da083878262a2b.jar" />
+    </item>
+    <item
+        jar="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.bm.photoview\library\1.3.6\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ac0d958638682d312195173403cb207e49738f97">
+        <dex dex="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\com.bm.photoview-library-1.3.6_89005e184f6b6e32b8667ce8cc1419d00240c624.jar" />
+    </item>
+    <item
+        jar="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\CHY_CSD\library_gesture_imageview\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec779841931da6ad97c27197411fc735fd308533">
+        <dex dex="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\CHY_CSD-library_gesture_imageview-unspecified_7bb675ff05ea730b6941da4ea0b9b6c0dd6f4ed0.jar" />
+    </item>
+    <item
+        jar="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\CHY_CSD\library_stick_header_listview\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a98aa83aef262c7b8fae34070a7ccdb094a16eed">
+        <dex dex="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\CHY_CSD-library_stick_header_listview-unspecified_ab78ad49403ff004050f142b8c098825176fc760.jar" />
+    </item>
+    <item
+        jar="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.yqritc\recyclerview-flexibledivider\1.2.8\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="62b68bc80ccd889ca086ebf9486aca63f395e4cb">
+        <dex dex="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\com.yqritc-recyclerview-flexibledivider-1.2.8_fbeb90b8286554164afdf688619d84d4af628189.jar" />
+    </item>
+    <item
+        jar="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\libs\libammsdk.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a5f20a9010df32cb73db28ec33964ed8b4c503cc">
+        <dex dex="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\libammsdk_5f2b8dad036fbcf09d5b90615eb0adbfc54f7fc1.jar" />
+    </item>
+    <item
+        jar="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.0_c042cf174970e01bdc178b833fdf185879778f92.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.yqritc\recyclerview-flexibledivider\1.2.8\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="62b68bc80ccd889ca086ebf9486aca63f395e4cb">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\com.yqritc-recyclerview-flexibledivider-1.2.8_ecbd684e4bea295a73742c07897862499cec95d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_fb815c9841d272442ca7daf034a7abac2e05dfab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_56a3cc4700c7ffb09eaef03c5664cd340d2b86bb.jar" />
+    </item>
+    <item
+        jar="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\CHY_CSD\library_flowlayout\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="52b965e04010b0bc1bde190dabdf7a58caf91195">
+        <dex dex="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\CHY_CSD-library_flowlayout-unspecified_d48404bb8698dd21bbff226e170b616fa2ed26e6.jar" />
+    </item>
+    <item
+        jar="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\libs\jpush-sdk-release1.7.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="60d6ab0c8767ceef6bf652b97b35fc508535b28a">
+        <dex dex="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\jpush-sdk-release1.7.3_75f14d33072e21a0a12165778438ae9d904fd9d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\libs\asnchttp.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5d590a4794329ed39c484b0e6d739721c46e3136">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\asnchttp_f77a1494a9ed7f1b4ac454778a77e26a56a95527.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\gson-2.5_4a10c8b1d317ea93dee7ca3d39d69fb75ccd92f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\libs\hessdroid.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="265e7eadfe22a4416ee3ecc78c8fe25e8838222d">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\hessdroid_0e02cff6c2c4cc8563589be04369384a9f587844.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_b201f91ecf2c4ed25881d191d423fb1002cce1b0.jar" />
+    </item>
+    <item
+        jar="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_31a043208fbd8e4d600da48a478038e9e617ef5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\CHY_CSD\library_pulltorefresh\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e2d205f7f6fe9c64b76f223c8b3a5e8eb69efc8d">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\CHY_CSD-library_pulltorefresh-unspecified_b1a2a47ebbd681e55f36b2bddf38aa0e5cf3f629.jar" />
+    </item>
+    <item
+        jar="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0_f9f112d2676ea5d5d7931b238cef4458a9abe832.jar" />
+    </item>
+    <item
+        jar="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\CHY_CSD\library_pulltorefresh\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="da594c3c69107c1789b984a8d3e673080b86e30b">
+        <dex dex="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\CHY_CSD-library_pulltorefresh-unspecified_cc32b38ce77243163b9314a36744098adbb3edd3.jar" />
+    </item>
+    <item
+        jar="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\libs\zxing.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4c49143dbfd705444c41bcad8512d2e4f584a52c">
+        <dex dex="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\zxing_540c57b188463626721db0bbbdf64a35783a9a6c.jar" />
+    </item>
+    <item
+        jar="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.0_8f2dcf415f025adcd04347f4aee5b66d991f6a74.jar" />
+    </item>
+    <item
+        jar="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_80d3307810fa0ce126aa2797b4c3eaf977b67f56.jar" />
+    </item>
+    <item
+        jar="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_0ee8a2d582ba35576f7146d5499333fdf0b3b4f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\CHY_CSD\library_gesture_imageview\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4fa50c08321d97986479a65e852e3baddf277b22">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\CHY_CSD-library_gesture_imageview-unspecified_db9d7f29d9101b6fd889328af94b095534c1f392.jar" />
+    </item>
+    <item
+        jar="E:\Z-Android_SDK\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_d2808464841f4e20fb9d60b01cb7cf1272326062.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.bm.photoview\library\1.3.6\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ac0d958638682d312195173403cb207e49738f97">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\com.bm.photoview-library-1.3.6_3a503ec37be93122a58401ab02ff8c4fdb608bd9.jar" />
+    </item>
+    <item
+        jar="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.0_b8d39b965e574792272e8f6fe0dbd6e482fff107.jar" />
+    </item>
+    <item
+        jar="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\libs\hessdroid.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="265e7eadfe22a4416ee3ecc78c8fe25e8838222d">
+        <dex dex="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\hessdroid_16e211b5621910f0cba3c30e471a3a9fee7d3954.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\CHY_CSD\library_flowlayout\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ff940e574616808b2dedd19ab8e16a0fe6087bec">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\CHY_CSD-library_flowlayout-unspecified_ddf3cfbcff99c5d9b6e5ed6a24709011d8361a7c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\libs\zxing.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4c49143dbfd705444c41bcad8512d2e4f584a52c">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\zxing_c5b415ceea77d5c458790e321cecd7c946a3a54d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\libs\libammsdk.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a5f20a9010df32cb73db28ec33964ed8b4c503cc">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\libammsdk_719a813c1b20ee6e151ead55c0d61defeb1286bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\libs\jpush-sdk-release1.7.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="60d6ab0c8767ceef6bf652b97b35fc508535b28a">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\jpush-sdk-release1.7.3_e3bed6613b968fd7792497fe4e85e879f59ce33f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\CHY_CSD\library_stick_header_listview\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="13cfc14944858a8ef7150700e80a653e7b41fc18">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\CHY_CSD-library_stick_header_listview-unspecified_26844b8afa4b9d2ff78e9775e1e91915a9893ce7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\libs\umeng_sdk.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e042871a6a5a895b2015d8ef4680c9697c229d8d">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\umeng_sdk_cf425045552288c220baf65a768d3145b2e7f29d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.0_b98d9f5d05571e34dfe144b693da892ad14608ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0_16cbd931a0eb84cfcfb1fd73aa855f14bf5e3e9b.jar" />
+    </item>
+    <item
+        jar="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\libs\asnchttp.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5d590a4794329ed39c484b0e6d739721c46e3136">
+        <dex dex="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\asnchttp_ad9452fabc8a385c75cf383735030af5170cf2ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.0_620692e2d98fbfac183c6fa841abf95a7617ca8a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\libs\mobile-gene-hessian.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3bd2005f4122919568e5884d555e2e3938918fe1">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\mobile-gene-hessian_29dfc8834487dc4112efd5ae029e2ff115702d74.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_c8b1288e0e92e68ffed70e5f6716cda160894a28.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.0_399dd4d2ddfc6dee6e096a689676c2b11a14d03c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="C:\Users\Jacky\Desktop\Desktop\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_f1307b2efecf3931daaef624f46ccd28a00d3920.jar" />
+    </item>
+    <item
+        jar="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_5a0a2e9456a5b969d7428387408cd1df08ed4d38.jar" />
+    </item>
+    <item
+        jar="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\libs\umeng_sdk.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e042871a6a5a895b2015d8ef4680c9697c229d8d">
+        <dex dex="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\umeng_sdk_56ddd62772d1e5dd41b9816c8a51b23856a64fef.jar" />
+    </item>
+    <item
+        jar="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\libs\mobile-gene-hessian.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3bd2005f4122919568e5884d555e2e3938918fe1">
+        <dex dex="E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\pre-dexed\debug\mobile-gene-hessian_f5c7284b563ac63acb2270fbf48fbe9c8de59ef4.jar" />
+    </item>
+
+</items>

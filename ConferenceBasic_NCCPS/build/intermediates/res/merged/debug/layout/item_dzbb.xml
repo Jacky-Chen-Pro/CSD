@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <com.android.incongress.cd.conference.uis.IncongressTextView
+            android:id="@+id/posterCode"
+            android:layout_width="wrap_content"
+            android:textColor="@color/black"
+            android:layout_height="wrap_content"
+            android:textSize="13sp" />
+
+        <com.android.incongress.cd.conference.uis.IncongressTextView
+            android:id="@+id/conField"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/posterCode"
+            android:textColor="@color/black"
+            android:layout_marginLeft="20dp"
+            android:textSize="13sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp" >
+
+        <com.android.incongress.cd.conference.uis.IncongressTextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:maxLines="3"
+            android:ellipsize="end"
+            android:textStyle="bold"
+            android:textSize="15sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp" >
+
+        <com.android.incongress.cd.conference.uis.IncongressTextView
+            android:id="@+id/author"
+            android:layout_width="wrap_content"
+            android:textColor="@color/black"
+            android:layout_height="wrap_content"
+            android:textSize="15sp" />
+    </RelativeLayout>
+
+</LinearLayout>

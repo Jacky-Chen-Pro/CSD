@@ -1,0 +1,11 @@
+int attr auto_select_effect 0x7f010000
+int attr gravity 0x7f010002
+int attr max_select 0x7f010001
+int string app_name 0x7f020000
+int string gravity_center 0x7f020001
+int string gravity_left 0x7f020002
+int string gravity_right 0x7f020003
+int[] styleable TagFlowLayout { 0x7f010000, 0x7f010001, 0x7f010002 }
+int styleable TagFlowLayout_auto_select_effect 0
+int styleable TagFlowLayout_gravity 2
+int styleable TagFlowLayout_max_select 1

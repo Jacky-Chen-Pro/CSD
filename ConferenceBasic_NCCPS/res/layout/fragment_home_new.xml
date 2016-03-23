@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="#1b293a"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:padding="2dp"
+        android:id="@+id/rl_first"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/iv_look_schedule"
+            android:src="@drawable/look_schedule_new"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:background="@color/home_green"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:id="@+id/iv_search_schedule"
+            android:layout_toRightOf="@id/iv_look_schedule"
+            android:src="@drawable/search_schedule_new"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:background="@color/home_firt_blue"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:id="@+id/iv_my_schedule"
+            android:layout_toRightOf="@id/iv_search_schedule"
+            android:src="@drawable/my_schedule_new"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_width="wrap_content"
+            android:background="@color/home_second_blue"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:padding="2dp"
+        android:layout_below="@id/rl_first"
+        android:id="@+id/rl_second"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/hd_session"
+            android:src="@drawable/hd_session_new"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:background="@color/home_second_blue"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:id="@+id/iv_scenic_xiu"
+            android:layout_toRightOf="@id/hd_session"
+            android:src="@drawable/scenic_xiu_new"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:background="@color/home_green"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:id="@+id/iv_secretary"
+            android:layout_toRightOf="@id/iv_scenic_xiu"
+            android:src="@drawable/secretary_new"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_width="wrap_content"
+            android:background="@color/home_firt_blue"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:padding="2dp"
+        android:layout_below="@id/rl_second"
+        android:id="@+id/rl_third"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/iv_exhibitors"
+            android:src="@drawable/exhibitor_new"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:background="@color/home_second_blue"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:id="@+id/iv_speaker_search"
+            android:layout_toRightOf="@id/iv_exhibitors"
+            android:src="@drawable/speaker_search_new"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:background="@color/home_green"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:id="@+id/iv_exhibitor_guide"
+            android:layout_toRightOf="@id/iv_speaker_search"
+            android:src="@drawable/exhibitor_guide_new"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_width="wrap_content"
+            android:background="@color/home_firt_blue"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:id="@+id/iv_cit_college"
+            android:layout_toRightOf="@id/iv_exhibitor_guide"
+            android:src="@drawable/cit_college_new"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_width="wrap_content"
+            android:background="@color/home_firt_blue"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+</RelativeLayout>

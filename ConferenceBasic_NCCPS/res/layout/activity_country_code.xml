@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#efeef3"
+    android:orientation="vertical" >
+
+    <include android:id="@+id/title"
+        layout="@layout/title"/>
+
+    <se.emilsjolander.stickylistheaders.StickyListHeadersListView
+        android:id="@+id/slv_countrys"
+        android:layout_width="match_parent"
+        android:dividerHeight="0.1dp"
+        android:layout_below="@id/title"
+        android:divider="@color/gray"
+        android:background="@color/white"
+        android:layout_height="match_parent"
+        />
+    <com.android.incongress.cd.conference.utils.BladeView
+        android:id="@+id/bv_firstcode"
+        android:layout_width="20dp"
+        android:layout_height="match_parent"
+        android:layout_below="@id/title"
+        android:layout_alignParentRight="true"
+        android:background="@color/transparent"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"/>
+
+</RelativeLayout>

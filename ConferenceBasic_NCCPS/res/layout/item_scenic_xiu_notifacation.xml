@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/rl_notify"
+    android:background="@color/white">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:padding="@dimen/layout_padding">
+
+        <LinearLayout
+            android:id="@+id/ll_top_base_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/tv_publisher_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Jim"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/text_size_media" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="6dp"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/scenicxiu_news" />
+
+                <TextView
+                    android:id="@+id/tv_publish_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="6dp"
+                    android:text="5分钟前"
+                    android:textColor="@color/gray"
+                    android:textSize="@dimen/text_size_small" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_second_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ll_top_base_info"
+            android:layout_marginTop="@dimen/layout_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_publish_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="大会就要开始了，激动激动！！"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_small" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_third_pics"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ll_second_content"
+            android:layout_marginTop="@dimen/layout_margin"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/iv_show"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop" />
+        </LinearLayout>
+
+        <View
+            android:id="@+id/divider"
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:layout_below="@id/ll_third_pics"
+            android:layout_marginTop="@dimen/layout_margin"
+            android:background="@color/gray" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/divider"
+            android:layout_marginTop="@dimen/layout_margin">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="@string/look_all"
+                android:textColor="@color/theme_color"
+                android:textSize="@dimen/text_size_small" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/me_next" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/notifacation_tip" />
+
+    <ImageView android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/gray"/>
+</RelativeLayout>

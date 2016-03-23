@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent">
+
+    <!-- 详细的session信息 -->
+    <com.android.incongress.cd.conference.uis.ScrollControlViewpager
+        android:id="@+id/session_pager"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <!-- 页面信息 -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"
+        android:paddingTop="2dp"
+        android:paddingBottom="2dp"
+        android:layout_margin="@dimen/layout_margin"
+        android:background="@drawable/label_background"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tv_page_info"
+            android:textColor="@color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</RelativeLayout>

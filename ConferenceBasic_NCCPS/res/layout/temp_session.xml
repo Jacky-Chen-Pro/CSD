@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="1dp"
+        android:layout_marginRight="1dp"
+        android:padding="8dp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:layout_marginTop="1dp"
+        android:layout_marginBottom="1dp"
+        android:id="@+id/tv_session"
+        android:textSize="@dimen/text_size_small"
+        />
+</LinearLayout>

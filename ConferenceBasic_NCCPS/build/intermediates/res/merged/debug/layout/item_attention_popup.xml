@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:gravity="center_vertical"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:src="@drawable/bt_uncollected"
+        android:id="@+id/iv_attention"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:singleLine="true"
+        android:id="@+id/tv_meeting"
+        android:ellipsize="middle"
+        android:layout_marginLeft="@dimen/layout_margin"
+        android:textSize="@dimen/text_size_large"
+        android:textColor="@color/theme_color"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

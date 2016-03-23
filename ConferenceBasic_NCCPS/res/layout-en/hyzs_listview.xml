@@ -1,0 +1,49 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#EFEEF3"
+        >
+
+        <com.handmark.pulltorefresh.library.PullToRefreshListView
+            android:id="@+id/hyzs_home_list"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:cacheColorHint="@null"
+            android:divider="@null"
+            android:listSelector="@android:color/transparent"  
+            android:smoothScrollbar="true"
+            android:fadingEdge="vertical"/>
+    </LinearLayout>
+
+    <com.android.incongress.cd.conference.uis.IncongressTextView
+        android:id="@+id/exhibitor_no_data"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_weight="0"
+        android:gravity="center_vertical"
+        android:padding="12dp"
+        android:textSize="14sp"
+        android:textColor="#aeaeae"
+        android:text="@string/hyzs_list_no_data"
+        android:visibility="gone" />
+
+    
+      <com.android.incongress.cd.conference.uis.IncongressTextView
+        android:id="@+id/exhibitor_net_error"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center_vertical"
+        android:padding="12dp"
+        android:textSize="14sp"
+        android:textColor="#aeaeae"
+        android:text="@string/cit_net_error"
+        android:visibility="gone" />
+    
+</RelativeLayout>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/framelayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <include
+        android:id="@+id/include_title"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        layout="@layout/title" />
+
+    <WebView
+        android:id="@+id/wv_great_review"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/include_title" />
+
+    <com.android.incongress.cd.conference.uis.IncongressTextView
+        android:id="@+id/itv_net_error"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/cit_net_error"
+        android:textColor="@color/gray"
+        android:textSize="18sp"
+        android:visibility="invisible" />
+
+    <LinearLayout
+        android:id="@+id/pb_loading"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#66CACACA"
+        android:layout_below="@id/include_title"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <ProgressBar
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="visible" />
+
+        <com.android.incongress.cd.conference.uis.IncongressTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:text="@string/loading" />
+    </LinearLayout>
+
+</RelativeLayout>

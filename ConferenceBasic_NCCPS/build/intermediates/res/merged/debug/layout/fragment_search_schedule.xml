@@ -1,0 +1,95 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingBottom="5dp">
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tablayout"
+            style="@style/MyCustomTabTextAppearance"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/title_color"
+            app:tabIndicatorColor="@color/white"
+            app:tabSelectedTextColor="@color/white"
+            app:tabTextColor="#234a6c" />
+
+        <FrameLayout
+            android:id="@+id/search_frame"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:padding="6dp">
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:layout_toLeftOf="@+id/search_cancel_text"
+                    android:background="@drawable/bg_register_editor">
+
+                    <com.android.incongress.cd.conference.uis.ClearEditText
+                        android:id="@+id/search_search"
+                        android:layout_width="match_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_centerInParent="true"
+                        android:background="@null"
+                        android:drawableRight="@drawable/edittext_delete"
+                        android:gravity="left|center_vertical"
+                        android:padding="6dp"
+                        android:singleLine="true"
+                        android:textColor="#000"
+                        android:textSize="14sp" />
+
+                </RelativeLayout>
+
+                <com.android.incongress.cd.conference.uis.IncongressTextView
+                    android:id="@+id/search_cancel_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="@dimen/layout_margin"
+                    android:gravity="center_vertical"
+                    android:text="@string/search_cancel"
+                    android:textColor="@color/theme_color"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/search_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:drawableLeft="@drawable/hysq_icon_serch"
+                android:drawablePadding="5dp"
+                android:text="@string/search_session_hint"
+                android:textColor="#cfcfd3"
+                android:textSize="14sp" />
+        </FrameLayout>
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/pager"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+
+        <com.android.incongress.cd.conference.uis.IncongressTextView
+            android:id="@+id/itv_no_data"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:gravity="center"
+            android:text="@string/search_no_data"
+            android:textColor="@color/gray"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</RelativeLayout>

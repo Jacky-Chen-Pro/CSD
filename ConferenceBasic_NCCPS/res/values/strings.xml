@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--基本属性 -->
+    <string name="app_name">CSD</string>
+
+    <!-- 首页 -->
+    <string name="home_review">精彩回顾</string>
+    <string name="home_newscenter">新闻中心</string>
+    <string name="home_community">会议社区</string>
+    <string name="home_wallpaper">壁报</string>
+    <string name="home_schedule">会议日程</string>
+    <string name="home_speakersearch">讲者检索</string>
+    <string name="home_meetingguide">参会指南</string>
+    <string name="home_exhibitors">参展商</string>
+    <string name="home_exhibitoractivity">展商活动</string>
+    <string name="home_my_schedule">我的日程</string>
+    <string name="home_search">搜索</string>
+    <string name="home_scane">扫一扫</string>
+    <string name="home_setting">设置</string>
+    <string name="home_electroniccase">电子病例</string>
+    <string name="home_secretary">专家秘书</string>
+    <string name="home_messagestation">消息站</string>
+    <string name="home_search_schedule">查日程</string>
+    <string name="home_live_and_q">Live Q&#038;A</string>
+    <string name="home_scene_xiu">现场秀</string>
+    <string name="home_cit_college">CSD 学院</string>
+    <string name="home_me">我</string>
+    <string name="home_cit_live">CSD 直播</string>
+    <string name="home_interactive">现场互动</string>
+    <string name="home_icon_bl">病例</string>
+
+    <!-- 会议日程 -->
+    <string name="meeting_schedule_share">分享</string>
+    <string name="meeting_schedule_note">笔记</string>
+    <string name="meeting_schedule_txwb">腾讯微博</string>
+    <string name="meeting_schedule_wx">微信</string>
+    <string name="meeting_schedule_circle">朋友圈</string>
+    <string name="meeting_schedule_yj">邮件</string>
+    <string name="meeting_schedule_dx">短信</string>
+    <string name="meeting_schedule_room_location">定位图</string>
+    <string name="meeting_schedule_detail_title">日程详情</string>
+    <string name="meeting_schedule_location">定位</string>
+    <string name="meeting_schedule_alarm">闹铃</string>
+
+    <!-- 我的笔记 -->
+    <string name="metting_node_edit_no_data">请输入笔记内容再保存</string>
+
+    <!-- 讲者详情 -->
+    <string name="secretary_title">Ta的任务</string>
+
+    <!-- 我的日程 -->
+    <string name="my_schedule_edit">管理</string>
+    <string name="my_schedule_tips">您还未对当天的日程和发言进行闹铃设置</string>
+
+    <!-- 电子壁报 -->
+    <string name="cit_net_error">您的网络不给力哦，请稍后再试</string>
+    <string name="dzbb_search_title_author">搜索标题/作者关键词</string>
+    <string name="dzbb_sort">排序</string>
+    <string name="sort_by_code">按壁报编号排序</string>
+    <string name="sort_by_author">按作者排序</string>
+    <string name="dzbb_discussion">参与讨论(%d)</string>
+    <string name="dzbb_discussion_no_blacket">参与讨论</string>
+    <string name="dzbb_detail">壁报详情</string>
+    <string name="dzbb_comment_tie">%d 讨论</string>
+    <string name="dzbb_share">分享</string>
+    <string name="dzbb_no_data">无结果</string>
+    <string name="home_icon_hyzs">新闻中心</string>
+    <string name="home_icon_presidium">Faculty\nExclusive</string>
+
+    <!-- 其他 -->
+    <string name="loading_video">loading…</string>
+
+    <string name="conference_exit_app">确定要退出参会易应用吗?</string>
+    <string name="action_settings">Settings</string>
+    <string name="test">Test</string>
+    <string name="loading">加载中…</string>
+
+    <!-- 现场秀 -->
+    <string name="scenic_xiu_speaker_list">讲者列表</string>
+
+    <!-- 专家秘书 -->
+    <string name="enter_secretary_name">请输入您的姓名</string>
+    <string name="enter_blank">输入不能为空</string>
+    <string name="no_such_secretary_name">小秘书并未找到此姓名专家,\n请检查是否有错别字后重新输入</string>
+    <string name="yes_such_secretary_name"><Data><![CDATA[ <h3>恭喜您开启专家秘书功能!</h3>贴心的小秘书将在您参与的会议前%d分钟进行提醒,敬请期待哟!如需更改会议提醒时间,可在首页\"我的大会>参会提醒设置\"中更改 ]]></Data></string>
+    <string name="part_in_activitys">我的学术任务</string>
+    <string name="open_my_meeting_alarm">一键提醒</string>
+    <string name="close_my_meeting_alarm">关闭提醒</string>
+    <string name="shut_down_my_meeting_alarm">关闭我的会议秘书提醒功能</string>
+    <string name="logout">退出</string>
+    <string name="success_open_alarm">您已启动所有会议提醒\n小秘书将在会议开始前%d分钟提醒您！</string>
+    <string name="success_close_alarm">您已关闭所有会议提醒</string>
+    <string name="secretary_time">时间:</string>
+    <string name="secretary_location">地点:</string>
+    <string name="secretary_session">会议:</string>
+    <string name="secretary_speaker">发言:</string>
+    <string name="logout_secretary">退出小秘书将关闭所有会议提醒\n确认是否退出？</string>
+    <string name="secretary_login">开启专家秘书功能</string>
+    <string name="secretary_no_info">抱歉，会议已结束，\n小秘书期待来年与您相会！</string>
+    <string name="secretary_loading">小秘书正在加载…</string>
+    <string name="secretary_type_role">任务:</string>
+
+    <!-- Splash界面 -->
+    <string name="splash_login">正在自动登录…</string>
+    <string name="splash_checking">正在检查可用内容…</string>
+    <string name="splash_downloading">正在下载…%1$s</string>
+    <string name="splash_downloaded">下载完成，正在升级…</string>
+    <string name="incongress_data_update">有新的会议信息，是否现在更新？</string>
+    <string name="incongress_data_update_fail">连接失败，是否重新连接？</string>
+    <string name="incongress_connect_fail">连接失败请重新操作!</string>
+    <string name="incongress_send_success">发送成功!</string>
+    <string name="incongress_send_fail">发送失败!</string>
+    <string name="incongress_send_no_more_data">没有更多数据!</string>
+    <string name="incongress_connect_remaind">请先连接网络哦</string>
+    <string name="incongress_register">免费注册</string>
+
+    <!-- 登录 -->
+    <string name="incongress_login">登录</string>
+    <string name="login_phone_hint">手机</string>
+    <string name="login_password_hint">密码</string>
+    <string name="login_password_forget">忘记密码</string>
+    <string name="login_try_use">先用用看</string>
+    <string name="login_no_phone_password">请输入手机号和密码!</string>
+    <string name="given_name">Given Name</string>
+    <string name="family_name">Family Name</string>
+
+    <!-- 会议社区 -->
+    <string name="hysq_list_no_data">暂无发帖，快来和同行们一起参与互动吧！</string>
+    <string name="hysq_item_no_data">暂无跟帖，快来抢沙发吧！</string>
+    <string name="hysq_home_zan">点赞</string>
+    <string name="hysq_home_pinlun">评论</string>
+    <string name="hysq_home_item_detail">帖子详情</string>
+    <string name="hysq_home_jiangliangju_jiangzhe">讲者</string>
+    <string name="hysq_home_jiangliangju_huiyi">会议</string>
+    <string name="hysq_home_jiangliangju_huiyi_name">会议名称</string>
+    <string name="hysq_home_jiangliangju_biaoqing">表情</string>
+    <string name="hysq_home_jiangliangju_jianpan">键盘</string>
+    <string name="hysq_home_hint">说两句吧</string>
+    <string name="hysq_home_right_navbar_title">说两句</string>
+    <string name="hysq_home_jiangliangju_title">我来说两句</string>
+    <string name="hysq_home_jiangliangju_sousuo">搜索讲者名称</string>
+    <string name="hysq_home_huiyimingcheng_sousuo">搜索会议名称</string>
+    <string name="hysq_home_huiyimingcheng_now">正在进行</string>
+    <string name="hysq_home_huiyimingcheng_all">全部</string>
+    <string name="hysq_home_comment_zan">%d 赞</string>
+    <string name="hysq_home_comment_tie">%d 跟贴</string>
+    <string name="hysq_home_comment_post">发表</string>
+    <string name="hysq_home_comment_gen">跟两句…</string>
+    <string name="hysq_jiangliangju_titlebar_send_hint">发送</string>
+    <string name="hysq_jiangliangju_zuijin">最近@的讲者</string>
+    <string name="hysq_jiangliangju_nozuijin">没有最近@的讲者</string>
+    <string name="hysq_home_comment_send_msg_hint">请输入发表信息!</string>
+    <string name="hysq_home_comment_send_msg_success_hint">发表信息成功!</string>
+    <string name="hysq_home_comment_send_msg_error_hint">发表信息失败!</string>
+
+    <!-- 参展商 -->
+    <string name="exhibitor_list_item_guanzhuchengong">您将关注此展商!</string>
+    <string name="exhibitor_list_item_guanzhuquxiao">您将取消对此展商的关注!</string>
+    <string name="exhibitor_detail_address_title">地址</string>
+    <string name="exhibitor_detail_contact_title">联系方式</string>
+    <string name="exhibitor_detail_introduce_title">展商介绍</string>
+    <string name="exhibitor_detail_no_introduce_msg">暂无介绍</string>
+    <string name="exhibitor_detail_title">参展商详情</string>
+    <string name="exhibitor_detail_zanwei">展位:%s</string>
+    <string name="exhibitor_list_no_data">暂无参展商信息，敬请期待！</string>
+
+    <!-- 讲者 -->
+    <string name="speaker_speaker">讲者</string>
+    <string name="speaker_moderator">主持人</string>
+    <string name="speaker_role">选择身份</string>
+    <string name="speaker_no_data">组委会暂未公布%1$s名单，敬请期待！</string>
+
+    <!-- 展商活动 -->
+    <string name="exhibitor_activity_detail_title">活动介绍</string>
+    <string name="exhibitor_activity_detail_attention">关注</string>
+    <string name="exhibitor_activity_detail_attentioned">已关注</string>
+    <string name="exhibitor_activity_no_data">虚位以待！</string>
+    <string name="exhibitor_activity_no_data_no_network">请连接网络，查看展商活动详情</string>
+
+    <!-- 扫一扫 -->
+    <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
+
+    <!-- 新闻中心 -->
+    <string name="meeting_voice_all_msg">查看全文</string>
+    <string name="hyzs_list_no_data">组委会暂未发布精彩内容，敬请期待！</string>
+    <string name="see_detail">查看详情</string>
+
+    <!-- 参会指南 -->
+    <string name="tips_title_information">基本信息</string>
+    <string name="tips_title_classes">场馆图</string>
+
+    <!-- 用户注册 -->
+    <string name="register_title_msg">用户注册</string>
+    <string name="register_title">注册</string>
+
+    <!-- 设置 -->
+    <string name="settings_database">数据版本更新</string>
+    <string name="settings_version">版本更新</string>
+    <string name="settings_about">关于参会易</string>
+    <string name="settings_contact">联系我们</string>
+    <string name="settings_share">向朋友或同道推荐此应用</string>
+    <string name="settings_help">帮助我们改进参会易</string>
+    <string name="settings_nologin">您还未登录</string>
+    <string name="settings_login">点击登录</string>
+    <string name="settings_logout">点击退出</string>
+    <string name="settings_data_current">当前版本信息</string>
+    <string name="settings_data_new">数据库最新版本信息</string>
+    <string name="settings_data_version">版本  %.1f</string>
+    <string name="settings_data_newversion">最新版本  %.1f</string>
+    <string name="settings_version_version">版本  %s</string>
+    <string name="settings_version_newversion">最新版本  %s</string>
+    <string name="settings_data_title">数据库更新</string>
+    <string name="settings_data_manual">手动更新</string>
+    <string name="settings_data_noupdate">无需更新</string>
+    <string name="settings_version_new">软件最新版本信息</string>
+    <string name="settings_version_title">软件版本更新</string>
+    <string name="settings_help_title">意见反馈</string>
+    <string name="settings_share_title">推荐给朋友</string>
+    <string name="settings_about_text">软件介绍：
+\nCSCCM App介绍
+\n&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;这款采用“参会易”平台技术发布的会议App是专为中华医学会全国重症医学大会定制。第一次下载后，无需重新下载App，收到通知后可以自动更新。上海易慧睿思代表中华医学会全国重症医学大会欢迎每位参会者利用自己的手机，开始探索前所未有的参会新体验吧！在智能手机时代，参会需要“动起来”！
+\n
+\n主要功能
+\n-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;会议日程：除可在手机上直接浏览详尽的会议日程外，参会者可按日期、时间、领域、分会(session)名称、演讲名称、讲者名任意定向查询日程。与其它会议App截然不同的是，安装App后，上述资讯即可离线使用，并可随时自动更新。在会场无需任何网络即可使用。
+\n-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;会议社区：加入CSCCM会议社区，针对学术话题进行讨论，还可以@你崇拜的专家噢。
+\n-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;新闻中心：查看最新的会议资讯。
+\n-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;参会指南：查看会议信息和场馆图。
+\n-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;我的大会：关注的会议与发言、展商活动；发表的帖子、记录的笔记，一切和您参会切身相关的内容。
+\n
+\n关于“参会易®”
+\n&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;“参会易”是国内会议App中唯一的智能互动社交性的平台级产品， 其理念、用户体验已在国内遥遥领先。不少功能在全球范围也属首创和独创。如果您的组织需要我们的软件和会议服务，请联系我们: service@incongress.net</string>
+    <string name="settings_contact_test">亲爱的用户您好！如果在使用参会易的过程中有任何问题或发现bug，请与我们联系。谢谢\n我们的联系方式\n电话：021–52981008</string>
+    <string name="settings_contact_text_fax">传真：021–52981008*808</string>
+    <string name="settings_contact_text_mail">邮箱：service@incongress.net\n微信公共平台服务号：incongress</string>
+    <string name="settings_share_sms">短信推荐</string>
+    <string name="settings_share_mail">邮件推荐</string>
+    <string name="settings_share_content">我正在使用“参会易”,完全不同的参会体验。建议你下载试试！http://m.incongress.cn/csd</string>
+    <string name="settings_share_hint">推荐使用参会易</string>
+    <string name="settings_help_way1">方式1：</string>
+    <string name="settings_help_way2">方式2：</string>
+    <string name="settings_help_suggest">建议留下您的联系方式</string>
+    <string name="settings_help_phone">请输入手机号码</string>
+    <string name="settings_help_mail">请输入邮箱地址</string>
+    <string name="settings_help_phone_mail">请输入您的联系方式</string>
+    <string name="settings_help_content">反馈内容</string>
+    <string name="settings_help_wechat">在参会易微信公共平台反馈或洽谈合作：incongress</string>
+    <string name="settings_help_content_submit_hit">请输入反馈信息!</string>
+
+    <!-- 搜索 -->
+    <string name="search_metting">会议</string>
+    <string name="search_fayan">发言</string>
+    <string name="search_cancel">取消</string>
+    <string name="search_session_hint">搜索会议名称</string>
+    <string name="search_meeting_hint">搜索发言标题</string>
+    <string name="search_no_data">无结果</string>
+
+    <!-- 我的大会 -->
+    <string name="mymeeting_meeting">我关注的会议和发言</string>
+    <string name="mymeeting_exhibitor">我关注的参展商</string>
+    <string name="mymeeting_activity">我关注的展商活动</string>
+    <string name="mymeeting_tiezi">我发表的帖子</string>
+    <string name="mymeeting_note">我的笔记</string>
+    <string name="mymeeting_note_title">笔记</string>
+    <string name="mymeeting_warning">参会提醒设置</string>
+    <string name="mymeeting_wellcome">您好</string>
+    <string name="mymeeting_wellcome1">您好,</string>
+    <string name="mymeeting_wellcome2">,欢迎您使用"参会易"!</string>
+    <string name="mymeeting_welcome_sb">您好%1$s，欢迎您使用"参会易"!</string>
+    <string name="mymeeting_finish">完成</string>
+    <string name="mymeeting_manage">管理</string>
+    <string name="mymeeting_w_timemanage">提醒时间设置</string>
+    <string name="mymeeting_w_repeate">重复</string>
+    <string name="mymeeting_w_times">重复次数</string>
+    <string name="mymeeting_w_switch">参会提醒开关</string>
+    <string name="mymeeting_note_delete_msg">是否确定删除笔记</string>
+    <string name="mymeeting_no_attention_exhibitor">您还未定制自己的参会日历，请前往“参展商”添加自己感兴趣的参展商</string>
+    <string name="mymeeting_no_attention_exhibitoractivity">您还未定制自己的参会日历，请前往“展商活动”添加自己感兴趣的展商活动</string>
+    <string name="mymeeting_no_note">您还没有记过笔记，请前往“会议日程”中的“发言详情”页面添加自己的会议笔记</string>
+    <string name="mymeeting_no_tiezhi">您还未发表过帖子，请前往“会议社区”中来发表自己的见解</string>
+    <string name="mymeeting_no_session_metting">您还未定制自己的参会日历，请前往“会议日程”添加自己感兴趣的会议或发言</string>
+
+    <!-- 百度推送 -->
+    <string name="custom_text_hint">用户自定义打开的Activity</string>
+    <string name="login">登录</string>
+    <string name="login_forget_conform">确定</string>
+    <string name="login_forget_hint">请输入邮箱地址</string>
+    <string name="login_forget_success">我们已发送邮件至您的注册邮箱,请及时修改密码。</string>
+    <string name="login_forget_success_title">找回密码</string>
+    <string name="login_forget_failed">数据库中不存在与此手机号对应帐号，请核对后，重新输入</string>
+    <string name="login_forget_failed_title">输入错误</string>
+    <string name="login_forget_title">忘记密码</string>
+
+    <string-array name="repeate_dis">
+        <item>0分钟</item>
+        <item>1分钟</item>
+        <item>3分钟</item>
+        <item>5分钟</item>
+        <item>10分钟</item>
+        <item>15分钟</item>
+        <item>20分钟</item>
+    </string-array>
+    <string-array name="repeate_dis_value">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="repeate_time_dis">
+        <item>从不重复</item>
+        <item>每3分钟重复</item>
+        <item>每5分钟重复</item>
+        <item>每10分钟重复</item>
+        <item>每15分钟重复</item>
+        <item>每30分钟重复</item>
+        <item>每60分钟重复</item>
+    </string-array>
+    <string-array name="repeate_time_dis_value">
+        <item>0</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="repeate_times">
+        <item>不重复</item>
+        <item>1次</item>
+        <item>2次</item>
+        <item>3次</item>
+        <item>4次</item>
+        <item>5次</item>
+        <item>6次</item>
+    </string-array>
+    <string-array name="repeate_times_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string name="errcode_success">发送成功</string>
+    <string name="errcode_cancel">发送取消</string>
+    <string name="errcode_deny">发送被拒绝</string>
+    <string name="errcode_unknown">发送返回</string>
+    <string name="nomailaddress">请输入正确的Email地址</string>
+    <string name="nophonenumber">请输入正确的手机号码</string>
+    <string name="month_day_no_year">M月d日</string>
+    <string name="month_day_year" formatted="false">yyyy-MM-dd</string>
+    <string name="days_ago">%d天前</string>
+    <string name="hours_ago">%d小时前</string>
+    <string name="mins_ago">%d分钟前</string>
+    <string name="new_ago">刚刚发表</string>
+    <string name="alert_start">您关注的%1$s将在%2$s后在%3$s开始</string>
+    <string name="alert_pending">延迟提醒</string>
+    <string name="iamge_content_description">ImageView Description</string>
+    <string name="share_wechat_friend">分享给微信好友</string>
+    <string name="share_wechat_circle">分享到朋友圈</string>
+    <string name="text_loading">正在加载&#8230;</string>
+    <string name="speaker_detial">讲者详情</string>
+    <string name="cancel">取消</string>
+
+    <string name="positive_button">确定</string>
+    <string name="negative_button">取消</string>
+    <string name="look_all">查看全文</string>
+    <string name="load_again">重新加载</string>
+
+    <style name="internet_error">网络异常，请稍后重试</style>
+
+    <string name="create_post">创建帖子</string>
+    <string name="say_something">说点什么...</string>
+    <string name="album">相册</string>
+
+    <string name="question">提问</string>
+
+
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+
+    <string name="hd_question_site_test">http://incongress.cn/webapp/discussion/CIT2016H5/question.html?type=%1$s&amp;userInfoId=%2$s&amp;sId=%3$s&amp;conId=%4$s&amp;lan=%5$s</string>
+    <string name="hd_question_site_official">http://app.incongress.cn/webapp/discussion/CIT2016H5/question.html?type=%1$s&amp;userInfoId=%2$s&amp;sId=%3$s&amp;conId=%4$s&amp;lan=%5$s</string>
+
+    <string name="hd_server_site_test">http://incongress.cn/webapp/discussion/CIT2016H5/toupiao.jsp?type=%1$s&amp;userInfoId=%2$s&amp;lan=%3$s"</string>
+    <string name="hd_server_site_official">http://app.incongress.cn/webapp/discussion/CIT2016H5/toupiao.jsp?type=%1$s&amp;userInfoId=%2$s&amp;lan=%3$s"</string>
+
+    <string name="hands_on_site_test">http://incongress.cn/webapp/discussion/CIT2016H5/handsOn.jsp?conId=%1$s&amp;lan=%2$s&amp;userId=%3$s&amp;userType=%4$s&amp;</string>
+    <string name="hands_on_site_official">http://app.incongress.cn/webapp/discussion/CIT2016H5/handsOn.jsp?conId=%1$s&amp;lan=%2$s&amp;userId=%3$s&amp;userType=%4$s&amp;</string>
+
+    <string name="home_hands_on">实习中心</string>
+    <string name="survey">调研</string>
+
+    <!-- Cit Live 地址 -->
+    <string name="cit_live_url_test">http://incongress.cn/webapp/discussion/live.jsp?conId=%1$s&amp;lan=%2$s&amp;userId=%3$s&amp;userType=%4$s&amp;</string>
+    <string name="cit_live_url_official">http://app.incongress.cn/webapp/discussion/live.jsp?conId=%1$s&amp;lan=%2$s&amp;userId=%3$s&amp;userType=%4$s&amp;</string>
+    <string name="home_icon_cit">CSD直播</string>
+    <string name="login_out">退出当前账号</string>
+    <string name="login_out_tips">退出后，部分模块将无法使用，是否确认退出？</string>
+
+    <string name="plane">平面图</string>
+    <string name="home_skip">跳过</string>
+    <string name="home_ad_url">http://app.incongress.cn:8082/Conferences/conferences.do?adProxy&amp;conId=%1$s</string>
+    <string name="sessiondetail_attention">关注会议</string>
+    <string name="save">保存</string>
+    <string name="note_save_success">笔记保存成功</string>
+    <string name="question_list">问答列表</string>
+    <string name="answer_question">回答问题</string>
+    <string name="send_question">发送</string>
+    <string name="enter_content">请输入内容</string>
+    <string name="succcess_reply">回复成功</string>
+    <string name="fail_reply">恢复失败，请尝试重新发送</string>
+    <string name="session_detail">日程详情</string>
+    <string name="session_take_note">记笔记</string>
+    <string name="login_first">请先登录</string>
+    <string name="ask_sb">向%1$s提问</string>
+    <string name="faculty_no_assignments">该讲者没有学术任务</string>
+    <string name="media_center">新闻通知</string>
+    <string name="industrial_events">展商活动</string>
+    <string name="live_show">现场动态</string>
+    <string name="comment_no_empty">评论不能为空</string>
+    <string name="xxx_comments">%1$s人评论</string>
+    <string name="xxx_praise">%1$s人点赞</string>
+    <string name="schedule_comment_sth">我也评论一句...</string>
+    <string name="complete_your_info">请填写完整信息</string>
+    <string name="server_error">服务器开小差了，请稍后重试</string>
+    <string name="register_success">注册成功</string>
+    <string name="first_author">第一作者:</string>
+    <string name="send">发送</string>
+    <string name="telephone_number">手机号</string>
+    <string name="verification_code">验证码</string>
+    <string name="login_name">姓名</string>
+    <string name="get_code">获取验证码</string>
+    <string name="verify_attendance">核实参会代表身份</string>
+    <string name="sign_up">没有账号，去注册></string>
+    <string name="phone_can_not_empty">手机号码不能为空</string>
+    <string name="login_info_empty">姓名、手机号或验证码不能为空</string>
+    <string name="register_next">下一步</string>
+    <string name="country_code">国家</string>
+    <string name="success_send_regist_code">验证码已发送成功，注意查收</string>
+    <string name="dialog_tips">提示信息</string>
+    <string name="meeting_share_info">我使用“参会易”关注了“%1$s”,http://m.incongress.cn/csd</string>
+
+    <string name="no_more_date">没有更多数据了</string>
+    <string name="me_choose">选择</string>
+    <string name="push_tips">推送信息</string>
+    <string name="no_more_data">没有更多数据了哦</string>
+    <string name="login_success">登陆成功</string>
+
+</resources>

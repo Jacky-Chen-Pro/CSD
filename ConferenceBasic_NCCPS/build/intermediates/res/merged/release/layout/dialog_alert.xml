@@ -1,0 +1,75 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:layout_marginLeft="40dp"
+    android:layout_marginRight="40dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/alertdialog"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="5"
+            android:orientation="horizontal"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp" >
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/dialog_content"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/test"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:background="@color/dividerColor" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="38dp"
+            android:orientation="horizontal"
+            android:paddingTop="5dp"
+            android:weightSum="2" >
+
+            <Button
+                android:id="@+id/dialog_cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textSize="14sp"
+                android:textColor="@color/theme_color"
+                android:background="@drawable/hyrc_dialog_left"
+                android:text="@string/alert_pending" />
+
+            <View
+                android:layout_width="1px"
+                android:layout_height="fill_parent"
+                android:background="@color/dividerColor" />
+
+            <Button
+                android:id="@+id/dialog_ok"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textSize="14sp"
+                android:textColor="@color/theme_color"
+                android:background="@drawable/hyrc_dialog_right"
+                android:text="@string/positive_button" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

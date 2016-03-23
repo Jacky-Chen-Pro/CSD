@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E7E7E7"
+    android:orientation="vertical">
+
+    <include layout="@layout/title" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_marginTop="12dp"
+            android:layout_width="match_parent"
+            android:background="@drawable/bg_login_selected"
+            android:paddingLeft="@dimen/layout_padding"
+            android:paddingRight="@dimen/layout_padding"
+            android:addStatesFromChildren="true"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv_country_code"
+                android:text="+86"
+                android:layout_gravity="center_vertical"
+                android:layout_width="wrap_content"
+                android:gravity="center"
+                android:layout_height="match_parent" />
+
+            <View
+                android:layout_width="0.1dp"
+                android:background="@color/black"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="12dp"
+                android:layout_height="match_parent"/>
+
+            <com.android.incongress.cd.conference.uis.ClearEditText
+                android:id="@+id/cet_mobile"
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:background="@null"
+                android:hint="@string/telephone_number"
+                android:paddingBottom="4dp"
+                android:paddingTop="4dp" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/bt_next"
+            android:layout_width="match_parent"
+            android:layout_height="46dp"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/bg_button"
+            android:text="@string/register_next"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_large" />
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@drawable/login_bg"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/iv_citlogo"
+        android:src="@drawable/login_cit2016_logo"
+        android:layout_width="match_parent"
+        android:padding="36dp"
+        android:layout_marginTop="24dp"
+        android:visibility="gone"
+        android:scaleType="fitCenter"
+        android:layout_height="wrap_content"/>
+
+    <LinearLayout
+        android:id="@+id/ll_infos"
+        android:layout_below="@+id/iv_citlogo"
+        android:layout_width="match_parent"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:padding="18dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:layout_marginTop="@dimen/layout_margin"
+        android:layout_height="wrap_content">
+
+        <com.android.incongress.cd.conference.uis.ClearEditText
+            android:drawableRight="@drawable/edittext_delete"
+            android:id="@+id/et_name"
+            android:layout_width="match_parent"
+            android:textColor="@color/theme_color"
+            android:padding="@dimen/layout_padding"
+            android:textColorHint="@color/white"
+            android:textSize="@dimen/text_size_media"
+            android:background="@drawable/selector_edit_bg"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:hint="@string/login_name"
+             />
+
+
+        <com.android.incongress.cd.conference.uis.ClearEditText
+            android:drawableRight="@drawable/edittext_delete"
+            android:id="@+id/et_mobile"
+            android:background="@drawable/selector_edit_bg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:textColor="@color/theme_color"
+            android:textSize="@dimen/text_size_media"
+            android:padding="@dimen/layout_padding"
+            android:textColorHint="@color/white"
+            android:layout_marginTop="@dimen/layout_margin"
+            android:hint="@string/telephone_number"
+             />
+
+        <LinearLayout
+            android:id="@+id/ll_confirm"
+            android:orientation="horizontal"
+            android:textColor="@color/theme_color"
+            android:addStatesFromChildren="true"
+            android:layout_width="match_parent"
+            android:layout_marginTop="@dimen/layout_margin"
+            android:background="@drawable/selector_edit_bg"
+            android:padding="@dimen/layout_padding"
+            android:layout_height="wrap_content">
+
+            <com.android.incongress.cd.conference.uis.ClearEditText
+                android:drawableRight="@drawable/edittext_delete"
+                android:id="@+id/et_confirm"
+                android:layout_width="0dp"
+                android:layout_weight="7"
+                android:textSize="@dimen/text_size_media"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:layout_marginRight="@dimen/layout_margin"
+                android:textColor="@color/theme_color"
+                android:inputType="text"
+                android:textColorHint="@color/white"
+                android:hint="@string/verification_code"
+                />
+
+            <View
+                android:layout_width="0.5dp"
+                android:layout_height="20dp"
+                android:background="#9fffffff"/>
+
+            <TextView
+                android:id="@+id/tv_get_confirm"
+                android:text="@string/get_code"
+                android:layout_width="0dp"
+                android:layout_marginLeft="@dimen/layout_margin"
+                android:textSize="@dimen/text_size_media"
+                android:textColor="@color/theme_color"
+                android:gravity="center"
+                android:layout_weight="3"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <CheckBox
+            android:text="@string/verify_attendance"
+            android:textColor="@color/theme_color"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="4dp"
+            android:id="@+id/cb_regist"
+            android:padding="@dimen/layout_padding"
+            style="@style/ChyCheckBox"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:id="@+id/ll_regist_code"
+            android:visibility="gone"
+            android:layout_height="wrap_content">
+            <com.android.incongress.cd.conference.uis.ClearEditText
+                android:drawableRight="@drawable/edittext_delete"
+                android:id="@+id/et_regist_code"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/selector_edit_bg"
+                android:textSize="@dimen/text_size_media"
+                android:padding="@dimen/layout_padding"
+                android:textColor="@color/theme_color"
+                android:textColorHint="@color/white"
+                android:inputType="text"
+                android:hint="注册号"
+                />
+
+            <TextView
+                android:text="说明：注册号可通过登陆网站游览个人信息查看或通过现场打印的胸牌查看"
+                android:textSize="@dimen/text_size_small"
+                android:textColor="@color/theme_color"
+                android:layout_marginTop="@dimen/layout_margin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/bt_login"
+            android:layout_width="match_parent"
+            android:layout_marginTop="@dimen/layout_margin"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_button"
+            android:textColor="@color/white"
+            android:text="登录"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_go_regist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ll_infos"
+        android:paddingRight="@dimen/layout_padding"
+        android:textColor="@color/white"
+        android:layout_alignParentRight="true"
+        android:text="@string/sign_up"/>
+
+</RelativeLayout>

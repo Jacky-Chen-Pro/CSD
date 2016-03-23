@@ -1,0 +1,33 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent" >
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <com.socks.zlistview.widget.ZListView
+            android:id="@+id/message_station_listview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="@null"
+            android:cacheColorHint="@android:color/transparent" />
+
+    </RelativeLayout>
+
+    <com.android.incongress.cd.conference.uis.IncongressTextView
+        android:id="@+id/itv_net_error"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/include_title"
+        android:background="@color/white"
+        android:gravity="center"
+        android:text="@string/cit_net_error"
+        android:textColor="@color/gray"
+        android:textSize="18sp"
+        android:visibility="gone" />
+
+</RelativeLayout>

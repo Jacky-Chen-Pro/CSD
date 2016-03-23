@@ -1,0 +1,249 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true">
+   <RelativeLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+       >
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="5dp" >
+
+            <ImageView
+                android:id="@+id/exhibitor_detail_logo"
+                android:layout_width="60dp"
+                android:layout_height="60dp" />
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/exhibitor_detail_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5dp"
+                android:textColor="#000"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F0EFF4" >
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:text="@string/exhibitor_detail_address_title"
+                android:textColor="#8b8a90"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="10dp" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/czs_icon_adress" />
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/exhibitor_detail_address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:textColor="#8b8a90"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F0EFF4" >
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:text="@string/exhibitor_detail_contact_title"
+                android:textColor="#8b8a90"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="10dp" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/czs_icon_phone" />
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/exhibitor_detail_phone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:autoLink="phone"
+                android:textColor="#8b8a90"
+                android:textColorLink="@color/theme_color"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="10dp" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/czs_icon_fax" />
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/exhibitor_detail_fax"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:textColor="#000"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="10dp" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/czs_icon_internet" />
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/exhibitor_detail_internet"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:autoLink="all"
+                android:textColor="#8b8a90"
+                android:textColorLink="@color/theme_color"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <View 
+            android:layout_width="fill_parent"
+            android:layout_height="1.0px"
+            android:background="@color/dividerColor"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/czs_icon_stand" />
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/exhibitor_detail_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:layout_marginLeft="10dp"
+                android:textColor="#000"
+                android:textSize="12sp" />
+        </LinearLayout>
+         <View 
+            android:layout_width="fill_parent"
+            android:layout_height="1.0px"
+            android:background="@color/dividerColor"
+            />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:minHeight="120dp"
+            android:orientation="vertical"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="10dp"
+            android:scrollbars="none" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/czs_icon_introduce" />
+
+                <com.android.incongress.cd.conference.uis.IncongressTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="@string/exhibitor_detail_introduce_title"
+                    android:textColor="#000"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/exhibitor_detail_info"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center"
+                android:gravity="left"
+                android:layout_marginTop="@dimen/layout_margin"
+                android:text="@string/exhibitor_detail_no_introduce_msg"
+                android:textColor="#000"
+                android:textSize="10sp" >
+            </com.android.incongress.cd.conference.uis.IncongressTextView>
+        </LinearLayout>
+    </LinearLayout>
+  </RelativeLayout>
+</ScrollView>

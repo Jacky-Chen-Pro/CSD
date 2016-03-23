@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="#EFEEF3"
+    android:padding="6dp"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:text="还未开始的会议"
+        android:textColor="#9C9C9E"
+        android:textSize="@dimen/text_size_small"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

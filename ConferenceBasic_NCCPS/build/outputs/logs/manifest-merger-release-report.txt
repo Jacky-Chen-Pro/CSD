@@ -1,0 +1,536 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:2:1-252:12
+	package
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:3:5-62
+		INJECTED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml
+		INJECTED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml
+		INJECTED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml
+		INJECTED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_GPS
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:8:5-69
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:8:22-66
+uses-permission#android.permission.ACCESS_ASSISTED_GPS
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:9:22-75
+uses-permission#android.permission.ACCESS_LOCATION
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:10:5-74
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:10:22-71
+uses-permission#android.permission.READ_LOGS
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.SUPPRESSACCESSCHECKS
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:15:22-68
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:16:5-84
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:16:22-81
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.CAMERA
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:20:5-65
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:20:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:23:5-78
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:23:22-75
+uses-permission#android.permission.SYSTEM_OVERLAY_WINDOW
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:24:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:25:5-66
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:25:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:26:5-69
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:26:22-66
+permission#com.mobile.incongress.cd.conference.basic.csd.permission.JPUSH_MESSAGE
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:31:5-32:133
+	android:protectionLevel
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:32:95-130
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:32:9-94
+uses-permission#com.mobile.incongress.cd.conference.basic.csd.permission.JPUSH_MESSAGE
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:35:5-110
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:35:22-107
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:36:5-79
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:36:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:37:5-80
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:37:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:38:5-73
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:38:22-70
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:42:5-89
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:42:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:43:5-79
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:43:22-76
+uses-feature#android.hardware.camera
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:47:5-60
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:47:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:48:5-70
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:48:19-67
+application
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:50:5-250:19
+MERGED from [com.android.support:appcompat-v7:23.1.0] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.0] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\design\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.0] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.1.0] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.bm.photoview:library:1.3.6] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.bm.photoview\library\1.3.6\AndroidManifest.xml:11:5-12:19
+MERGED from [CHY_CSD:library_flowlayout:unspecified] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\CHY_CSD\library_flowlayout\unspecified\AndroidManifest.xml:5:5-8:19
+MERGED from [CHY_CSD:library_pulltorefresh:unspecified] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\CHY_CSD\library_pulltorefresh\unspecified\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:55:9-41
+	android:hardwareAccelerated
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:53:9-43
+	android:allowBackup
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:52:9-35
+	android:icon
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:54:9-45
+	android:theme
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:56:9-44
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:51:9-80
+meta-data#UMENG_APPKEY
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:57:9-60:21
+	android:value
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:59:13-53
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:58:13-40
+meta-data#UMENG_CHANNEL
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:61:9-64:21
+	android:value
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:63:13-34
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:62:13-41
+activity#com.android.incongress.cd.conference.SplashActivity
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:66:9-74:20
+	android:screenOrientation
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:71:13-49
+	android:label
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:70:13-45
+	android:hardwareAccelerated
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:69:13-47
+	android:exported
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:68:13-36
+	android:windowSoftInputMode
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:73:13-56
+	android:theme
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:72:13-69
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:67:13-79
+activity#com.android.incongress.cd.conference.GuideAcitivity
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:75:9-84:20
+	android:windowSoftInputMode
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:78:13-56
+	android:theme
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:77:13-69
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:76:13-79
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:79:13-83:29
+action#android.intent.action.MAIN
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:80:17-69
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:80:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:82:17-77
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:82:27-74
+activity#com.android.incongress.cd.conference.HomeActivity
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:85:9-91:20
+	android:screenOrientation
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:88:13-49
+	android:launchMode
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:87:13-44
+	android:windowSoftInputMode
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:90:13-52
+	android:theme
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:89:13-57
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:86:13-77
+activity#com.android.incongress.cd.conference.ScanQRActivity
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:92:9-96:20
+	android:screenOrientation
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:94:13-49
+	android:theme
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:95:13-60
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:93:13-79
+activity#com.android.incongress.cd.conference.fragments.cit_live.CitLiveFragment
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:97:9-102:20
+	android:screenOrientation
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:100:13-49
+	android:configChanges
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:99:13-74
+	android:theme
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:101:13-60
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:98:13-99
+activity#com.android.incongress.cd.conference.fragments.cit_college.CitCollegeActivity
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:103:9-109:20
+	android:screenOrientation
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:106:13-49
+	android:windowSoftInputMode
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:108:13-52
+	android:configChanges
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:105:13-74
+	android:theme
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:107:13-60
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:104:13-105
+activity#com.android.incongress.cd.conference.LoginActivity
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:110:9-112:73
+	android:windowSoftInputMode
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:112:13-70
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:111:13-78
+activity#com.android.incongress.cd.conference.GestureImageViewActivity
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:113:9-117:20
+	android:screenOrientation
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:115:13-49
+	android:theme
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:116:13-60
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:114:13-89
+activity#com.mobile.incongress.cd.conference.basic.csccm.wxapi.WXEntryActivity
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:118:9-122:20
+	android:screenOrientation
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:120:13-49
+	android:theme
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:121:13-60
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:119:13-50
+activity#com.android.incongress.cd.conference.WebViewVideoActivity
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:123:9-127:20
+	android:configChanges
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:125:13-85
+	android:theme
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:126:13-60
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:124:13-85
+receiver#com.android.incongress.cd.conference.utils.AlarmInitReceiver
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:129:9-136:20
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:129:19-94
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.LOCALE_CHANGED+android.intent.action.TIMEZONE_CHANGED+android.intent.action.TIME_SET
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:130:13-135:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:131:17-79
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:131:25-76
+action#android.intent.action.TIME_SET
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:132:17-73
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:132:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:133:17-81
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:133:25-78
+action#android.intent.action.LOCALE_CHANGED
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:134:17-79
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:134:25-76
+receiver#com.android.incongress.cd.conference.utils.AlarmReceiver
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:137:9-143:20
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:137:19-90
+intent-filter#alarm_killed+cancel_snooze+com.android.incongress.cd.conference.alarm_start
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:138:13-142:29
+action#com.android.incongress.cd.conference.alarm_start
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:139:17-91
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:139:25-88
+action#alarm_killed
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:140:17-55
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:140:25-52
+action#cancel_snooze
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:141:17-56
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:141:25-53
+service#com.android.incongress.cd.conference.utils.AlarmKlaxon
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:145:9-149:19
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:145:18-87
+intent-filter#com.android.incongress.cd.conference.alarm_start
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:146:13-148:29
+service#com.android.incongress.cd.conference.services.AdService
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:150:9-151:19
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:150:18-88
+activity#com.android.incongress.cd.conference.WebViewContainerActivity
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:153:9-98
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:153:19-95
+activity#com.android.incongress.cd.conference.ScenicXiuPicsViewpagerActivity
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:154:9-104
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:154:19-101
+activity#com.android.incongress.cd.conference.ChoosePhotoActivity
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:155:9-157:72
+	android:theme
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:157:13-69
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:156:13-84
+activity#com.android.incongress.cd.conference.fragments.professor_secretary.AnswerQuestionActivity
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:158:9-126
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:158:19-123
+activity#com.android.incongress.cd.conference.RegisterActivity
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:161:9-90
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:161:19-87
+activity#com.android.incongress.cd.conference.RegisterConfirmActivity
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:162:9-97
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:162:19-94
+activity#com.android.incongress.cd.conference.fragments.professor_secretary.SecretaryActivity
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:163:9-121
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:163:19-118
+service#cn.jpush.android.service.PushService
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:165:9-175:19
+	android:enabled
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:167:13-35
+	android:exported
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:168:13-37
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:166:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:169:13-174:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:170:17-75
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:170:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:171:17-73
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:171:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:172:17-78
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:172:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:173:17-76
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:173:25-73
+receiver#com.android.incongress.cd.conference.receiver.JPushReceiver
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:177:9-189:20
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:177:19-93
+intent-filter#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK+cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+cn.jpush.android.intent.UNREGISTRATION+com.mobile.incongress.cd.conference.basic.csd
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:178:13-188:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:179:17-79
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:179:25-76
+action#cn.jpush.android.intent.UNREGISTRATION
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:180:17-81
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:180:25-78
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:181:17-83
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:181:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:182:17-88
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:182:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:183:17-86
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:183:25-83
+action#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:184:17-91
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:184:25-88
+action#cn.jpush.android.intent.CONNECTION
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:185:17-77
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:185:25-74
+category#com.mobile.incongress.cd.conference.basic.csd
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:187:17-90
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:187:27-87
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:192:9-210:20
+	android:enabled
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:194:13-35
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:193:13-65
+intent-filter#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+com.mobile.incongress.cd.conference.basic.csd
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:195:13-199:29
+	android:priority
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:195:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:196:17-94
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:196:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:200:13-203:29
+action#android.intent.action.USER_PRESENT
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:201:17-77
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:201:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:202:17-79
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:202:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:204:13-209:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:205:17-78
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:205:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:206:17-80
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:206:25-77
+data
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:208:17-50
+	android:scheme
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:208:23-47
+activity#cn.jpush.android.ui.PushActivity
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:212:9-222:20
+	android:configChanges
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:214:13-63
+	android:theme
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:215:13-72
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:213:13-60
+intent-filter#android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity+com.mobile.incongress.cd.conference.basic.csd
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:216:13-221:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:217:17-75
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:217:25-72
+category#android.intent.category.DEFAULT
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:219:17-76
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:219:27-73
+service#cn.jpush.android.service.DownloadService
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:224:9-228:19
+	android:enabled
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:226:13-35
+	android:exported
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:227:13-37
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:225:13-68
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:230:9-75
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:230:19-72
+meta-data#JPUSH_CHANNEL
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:238:9-240:49
+	android:value
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:240:13-46
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:239:13-41
+meta-data#JPUSH_APPKEY
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:242:9-244:56
+	android:value
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:244:13-53
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:243:13-40
+activity#com.android.incongress.cd.conference.CountryCodeActivity
+ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:246:9-249:20
+	android:name
+		ADDED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml:247:13-84
+uses-sdk
+INJECTED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.0] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.0] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\design\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.0] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.0] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.1.0] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.bm.photoview:library:1.3.6] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.bm.photoview\library\1.3.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.yqritc:recyclerview-flexibledivider:1.2.8] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\com.yqritc\recyclerview-flexibledivider\1.2.8\AndroidManifest.xml:8:5-10:41
+MERGED from [CHY_CSD:library_gesture_imageview:unspecified] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\CHY_CSD\library_gesture_imageview\unspecified\AndroidManifest.xml:7:5-43
+MERGED from [CHY_CSD:library_pulltorefresh:unspecified] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\CHY_CSD\library_pulltorefresh\unspecified\AndroidManifest.xml:7:5-43
+MERGED from [CHY_CSD:library_stick_header_listview:unspecified] E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\build\intermediates\exploded-aar\CHY_CSD\library_stick_header_listview\unspecified\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml
+		INJECTED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml
+		INJECTED from E:\A-Company_Project_studio\CHY_CSD\ConferenceBasic_NCCPS\AndroidManifest.xml

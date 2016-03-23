@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="40dp"
+    android:gravity="center_vertical"
+    android:orientation="vertical" >
+
+    <com.android.incongress.cd.conference.uis.IncongressTextView
+        android:id="@+id/speaker_child_group_title"
+        android:layout_width="fill_parent"
+        android:layout_height="20dp"
+        android:background="#EFEEF3"
+        android:paddingRight="40dp"
+         android:gravity="center_vertical"
+        android:textSize="12sp"
+        android:textColor="#eb6153"
+        android:paddingLeft="15dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#FFF" >
+
+       <com.android.incongress.cd.conference.uis.IncongressTextView
+        android:id="@+id/speaker_child_textItem"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:drawableLeft="@drawable/hyrc_icon_speaker"
+        android:drawablePadding="20dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="15dp"
+        android:paddingRight="40dp"
+        android:textSize="14sp"
+        android:text="@string/test"
+        android:textColor="#FF000000"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="30dp"
+            android:src="@drawable/me_next" />
+    </RelativeLayout>
+
+</LinearLayout>

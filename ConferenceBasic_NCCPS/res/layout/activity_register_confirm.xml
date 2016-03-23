@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="#E7E7E7"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/title"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:padding="24dp"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_marginTop="@dimen/layout_margin"
+            android:addStatesFromChildren="true"
+            android:background="@drawable/bg_login_selected"
+            android:layout_height="46dp">
+
+            <com.android.incongress.cd.conference.uis.ClearEditText
+                android:id="@+id/cet_confirm_code"
+                android:layout_width="0dp"
+                android:layout_weight="7"
+                android:background="@null"
+                android:hint="验证码"
+                android:padding="6dp"
+                android:layout_height="match_parent" />
+
+            <View
+                android:layout_width="0.1dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="4dp"
+                android:layout_marginBottom="4dp"
+                android:layout_gravity="center_vertical"
+                android:background="@color/gray"/>
+
+            <TextView
+                android:id="@+id/tv_get_confirm"
+                android:text="获取验证码"
+                android:layout_width="0dp"
+                android:gravity="center"
+                android:textSize="@dimen/text_size_media"
+                android:textColor="@color/theme_color"
+                android:layout_weight="3"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+
+        <com.android.incongress.cd.conference.uis.ClearEditText
+            android:id="@+id/cet_name"
+            android:layout_width="match_parent"
+            android:hint="姓名"
+            android:background="@drawable/bg_login_selected"
+            android:padding="6dp"
+            android:layout_marginTop="@dimen/layout_margin"
+            android:layout_height="46dp" />
+
+        <Button
+            android:text="注册"
+            android:id="@+id/bt_register"
+            android:layout_width="match_parent"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/bg_button"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_large"
+            android:layout_height="46dp" />
+    </LinearLayout>
+
+
+</LinearLayout>

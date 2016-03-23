@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:layout_marginRight="15dp"
+    tools:context=".MainActivity" >
+        <CheckBox
+            android:id="@+id/title_star"
+            style="@style/StarCheckBox"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:focusable="false" 
+            android:paddingLeft="18dip" 
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            android:text="@string/exhibitor_activity_detail_attention"/>
+        
+            />
+</LinearLayout>

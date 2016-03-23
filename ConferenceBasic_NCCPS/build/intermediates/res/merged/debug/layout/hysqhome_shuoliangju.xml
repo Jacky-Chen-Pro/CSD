@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#efeef3">
+    
+   <com.android.incongress.cd.conference.uis.IncongressEditText
+        android:id="@+id/hysq_home_shuo_text"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="5dp"
+        android:layout_above="@+id/hysq_ssb_panel"
+        android:background="#efeef3"
+        android:layout_weight="1"
+        android:gravity="left|top"
+        android:hint="@string/hysq_home_hint"
+        android:textColorHint="#c0c3c6"
+        android:textSize="14sp" />
+  
+    <LinearLayout
+        android:id="@+id/hysq_ssb_panel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="10dp"
+        android:background="#FFF"
+        android:orientation="vertical"
+        android:clickable="true" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/hysq_bg_shuojliangju"
+            android:orientation="horizontal"
+            android:weightSum="3" >
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:paddingLeft="3dp"
+                android:paddingRight="3dp"
+                android:orientation="horizontal"
+                     android:id="@+id/ll_zuozhe"
+                android:gravity="center" >
+                <ImageView 
+                    android:id="@+id/zuozhe"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/hysq_icon_atjiangzhe"
+                    />
+                <com.android.incongress.cd.conference.uis.IncongressTextView
+                    android:id="@+id/hysq_home_shuo_zuozhe"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="@string/hysq_home_jiangliangju_jiangzhe"
+                    android:textColor="#000"
+                    android:singleLine="true"
+                    android:ellipsize="middle"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+            <View
+                android:id="@+id/hysq_home_tiezi_base_v"
+                android:layout_width="1dp"
+                android:layout_height="20dp"
+                android:layout_gravity="center"
+                android:background="@drawable/hysq_body_tiezi_line_v" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:paddingLeft="3dp"
+                android:paddingRight="3dp"
+                android:orientation="horizontal"
+                     android:id="@+id/ll_huiyi"
+                android:gravity="center" >
+                <ImageView 
+                    android:id="@+id/huiyi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/hysq_icon_huiyi"
+                    />
+                <com.android.incongress.cd.conference.uis.IncongressTextView
+                    android:id="@+id/hysq_home_shuo_huiyi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="@string/hysq_home_jiangliangju_huiyi"
+                    android:textColor="#000"
+                    android:singleLine="true"
+                    android:ellipsize="middle"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="20dp"
+                android:layout_gravity="center"
+                android:background="@drawable/hysq_body_tiezi_line_v" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:paddingLeft="3dp"
+                android:paddingRight="3dp"
+                android:orientation="horizontal"
+                     android:id="@+id/ll_biaoqing"
+                android:gravity="center" >
+                <ImageView 
+                    android:id="@+id/biaoqing"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/hysq_icon_biaoqing"
+                    />
+                <com.android.incongress.cd.conference.uis.IncongressTextView
+                    android:id="@+id/hysq_home_shuo_biaoqing"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="@string/hysq_home_jiangliangju_biaoqing"
+                    android:textColor="#000"
+                    android:textSize="12sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <GridView
+            android:id="@+id/hysq_home_shuo_emojo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:columnWidth="20dp"
+            android:gravity="center"
+            android:background="#FFF"
+            android:listSelector="#FFF"
+            android:horizontalSpacing="15dp"
+            android:numColumns="7"
+            android:layout_margin="10dp"
+            android:stretchMode="columnWidth"
+            android:verticalSpacing="15dp"
+            android:visibility="gone" >
+        </GridView>
+    </LinearLayout>
+ <FrameLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+     <LinearLayout
+        android:id="@+id/metting_schedule_meng"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/hysq_meng2"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:clickable="true"
+        >
+        <FrameLayout
+            android:layout_width="260dp"
+            android:layout_height="200dp"
+            
+            >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/hysq_meng1"
+                android:layout_gravity="center_horizontal"
+                />
+            <ImageView
+                android:id="@+id/metting_schedule_know"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/i_know"
+                android:layout_gravity="center"/>
+
+            </FrameLayout>
+
+        </LinearLayout>
+</FrameLayout>
+</RelativeLayout>

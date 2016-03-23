@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/layout_padding">
+
+    <TextView
+        android:id="@+id/tv_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="10sp"
+        android:text="03-17 12:12" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_time"
+        android:layout_marginTop="6dp"
+        android:layout_marginBottom="6dp"
+        android:orientation="horizontal"
+       >
+
+        <com.android.incongress.cd.conference.uis.CircleImageView
+            android:id="@+id/civ_author"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:src="@drawable/professor_default" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/layout_margin"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/tv_author_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Jim"
+                    android:textSize="@dimen/text_size_large" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tv_question_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:text="超负荷工作，如何才能不[伤心]"
+                android:textSize="@dimen/text_size_small" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_button"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"
+        android:id="@+id/tv_answer"
+        android:textSize="@dimen/text_size_small"
+        android:paddingTop="2dp"
+        android:paddingBottom="2dp"
+        android:textColor="@color/white"
+        android:layout_alignParentRight="true"
+        android:text="去回答" />
+
+</RelativeLayout>

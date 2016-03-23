@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:id="@+id/hysq_home_huiyimingcheng_frame"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:background="#C9C9CF"
+        android:paddingBottom="10dp" >
+        
+        
+                <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_toLeftOf="@+id/search_cancel_text"
+                android:layout_weight="1"
+                android:background="@drawable/serch_bg_shurukaung" >
+
+                <ImageView
+                    android:id="@+id/search_image_hint"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="5dp"
+                    android:src="@drawable/hysq_icon_serch"
+                    android:visibility="gone" />
+
+                <com.android.incongress.cd.conference.uis.IncongressEditText
+                    android:id="@+id/hysq_home_huiyimingcheng_search"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_toLeftOf="@+id/search_cancel_button"
+                    android:layout_toRightOf="@id/search_image_hint"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:gravity="left|center_vertical"
+                    android:singleLine="true"
+                    android:textColor="#000"
+                    android:textSize="12sp" />
+
+                <ImageButton
+                    android:id="@+id/search_cancel_button"
+                    android:layout_width="40dp"
+                    android:layout_height="fill_parent"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:background="@null"
+                    android:src="@drawable/serch_icon_cancel"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/search_cancel_text"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="20dp"
+                android:layout_weight="0"
+                android:gravity="center_vertical"
+                android:text="@string/search_cancel"
+                android:textColor="@color/theme_color"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <com.android.incongress.cd.conference.uis.IncongressTextView
+            android:id="@+id/hysq_home_huiyimingcheng_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/hysq_home_huiyimingcheng_sousuo"
+            android:drawableLeft="@drawable/hysq_icon_serch"
+            android:textSize="12sp"
+            android:textColor="#cfcfd3"
+            android:drawablePadding="5dp" />
+    </FrameLayout>
+
+    <com.android.incongress.cd.conference.utils.PinnedHeaderListView
+        android:id="@+id/hysq_home_huiyimingcheng_pinnedListView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/hysq_home_huiyimingcheng_frame"
+        android:divider="@color/dividerColor"
+        android:dividerHeight="1.0px"
+         android:listSelector="@android:color/transparent"  
+        android:cacheColorHint="@android:color/transparent"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false"
+         >
+    </com.android.incongress.cd.conference.utils.PinnedHeaderListView>
+
+</RelativeLayout>

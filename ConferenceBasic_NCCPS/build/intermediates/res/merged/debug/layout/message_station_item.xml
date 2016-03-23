@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    >
+
+    <ImageView
+        android:id="@+id/iv_laba"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/message_laba"
+        android:scaleType="fitCenter"
+        android:adjustViewBounds="true"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="5dp"
+        android:layout_toRightOf="@id/iv_laba">
+
+        <com.android.incongress.cd.conference.uis.IncongressTextView
+            android:layout_width="match_parent"
+            android:maxLines="3"
+            android:id="@+id/itv_message_title"
+            android:text="最新临床首次公布申请截止日期定为最新临床首次公布盛情最新临床首次公布申请截止日期定为最新临床首次公布盛情"
+            android:textColor="@color/black"
+            android:paddingRight="4dp"
+            android:layout_height="wrap_content" />
+
+        <com.android.incongress.cd.conference.uis.IncongressTextView
+            android:layout_width="match_parent"
+            android:singleLine="true"
+            android:text="2015-03-24 20:15"
+            android:paddingRight="4dp"
+            android:textColor="@color/gray"
+            android:id="@+id/itv_message_time"
+            android:layout_marginTop="8dp"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="8dp"
+            android:background="@color/gray"
+            />
+
+        </LinearLayout>
+
+
+</RelativeLayout>

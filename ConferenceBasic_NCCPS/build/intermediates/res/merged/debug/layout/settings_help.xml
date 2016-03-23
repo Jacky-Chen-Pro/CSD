@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<LinearLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FFF"
+    android:orientation="vertical"
+    android:padding="15dp" >
+     <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true" >
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+    <com.android.incongress.cd.conference.uis.IncongressTextView
+        android:id="@+id/settings_help_way1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingTop="10dp"
+        android:text="@string/settings_help_way1"
+        android:textColor="#000"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <com.android.incongress.cd.conference.uis.IncongressTextView
+        android:id="@+id/settings_help_suggest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingTop="10dp"
+        android:text="@string/settings_help_suggest"
+        android:textColor="@color/theme_color"
+        android:textSize="12sp" />
+
+    <com.android.incongress.cd.conference.uis.IncongressEditText
+        android:id="@+id/settings_help_phone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:hint="@string/settings_help_phone"
+        android:paddingTop="10dp"
+        android:inputType="phone"
+        android:singleLine="true"
+        android:textColorHint="#d2d2d2"
+        android:textSize="14sp" />
+
+    <com.android.incongress.cd.conference.uis.IncongressEditText
+        android:id="@+id/settings_help_mail"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:hint="@string/settings_help_mail"
+        android:inputType="textEmailAddress"
+        android:paddingTop="10dp"
+        android:singleLine="true"
+        android:textColorHint="#d2d2d2"
+        android:textSize="14sp" />
+    
+    <com.android.incongress.cd.conference.uis.IncongressEditText
+        android:id="@+id/settings_help_content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:hint="@string/settings_help_content"
+        android:paddingTop="10dp"
+        android:textSize="14sp"
+        android:textColorHint="#d2d2d2"
+        android:lines="4" />
+    
+     <com.android.incongress.cd.conference.uis.IncongressTextView
+        android:id="@+id/settings_help_way2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingTop="10dp"
+        android:text="@string/settings_help_way2"
+        android:textColor="#000"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <com.android.incongress.cd.conference.uis.IncongressTextView
+        android:id="@+id/settings_help_wechat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingTop="10dp"
+        android:text="@string/settings_help_wechat"
+        android:textColor="@color/theme_color"
+        android:textSize="12sp" />
+    </LinearLayout>
+ </ScrollView>
+</LinearLayout>
+</RelativeLayout>

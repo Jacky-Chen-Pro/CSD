@@ -1,0 +1,34 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="50dp"
+     >
+    <ImageView 
+        android:id="@+id/tips_classes_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20dp"
+        android:background="@drawable/icon_tips_classes_selected"
+     />
+    <com.android.incongress.cd.conference.uis.IncongressTextView
+        android:layout_marginLeft="20dp"
+        android:id="@+id/tip_classes_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:textColor="@color/black"
+        android:textSize="12sp" 
+        android:layout_toRightOf="@id/tips_classes_image"
+        android:layout_toLeftOf="@+id/tips_classes_next_image"
+       />
+        <ImageView
+        android:id="@+id/tips_classes_next_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="15dp"
+            android:src="@drawable/me_next" />
+</RelativeLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent">
+
+    <com.android.incongress.cd.conference.uis.AutoSwipeRefreshLayout
+        android:id="@+id/asrl_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/rclv_post"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </com.android.incongress.cd.conference.uis.AutoSwipeRefreshLayout>
+
+    <Button
+        android:id="@+id/bt_load_again"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/load_again"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tv_tips"
+        android:visibility="gone"
+        android:layout_centerInParent="true"
+        android:textColor="@color/normal_gray"
+        android:text="您还未发表过帖子，请前往现场秀来发表自己的见解"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

@@ -1,0 +1,95 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ExampleActivity" >
+
+    <include
+        android:id="@+id/include_title"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        layout="@layout/title" />
+
+    <!-- View that will be hidden when video goes fullscreen -->
+
+    <RelativeLayout
+        android:id="@+id/nonVideoLayout"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="92dp"
+        android:layout_height="match_parent"
+        android:layout_below="@id/include_title" >
+
+        <com.android.incongress.cd.conference.uis.VideoEnabledWebView
+            android:id="@+id/webView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </RelativeLayout>
+
+    <!-- View where the video will be shown when video goes fullscreen -->
+
+    <RelativeLayout
+        android:id="@+id/videoLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <!--
+        View that will be shown while the fullscreen video loads. For example you could include
+        a "Loading..." message. However, in this particular example this view is actually defined in
+        view_loading_video.xml and inflated programmatically in ExampleActivity.java. The reason for
+        this is to keep the main layout (this file) cleaner.
+        -->
+        <!--
+             <View
+            android:id="@+id/videoLoading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:visibility="invisible" />
+        -->
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/pb_loading"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/include_title"
+        android:background="#66CACACA"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <ProgressBar
+            style="@style/Widget.AppCompat.ProgressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <com.android.incongress.cd.conference.uis.IncongressTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:text="@string/loading" />
+    </LinearLayout>
+
+    <com.android.incongress.cd.conference.uis.IncongressTextView
+        android:id="@+id/itv_net_error"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/include_title"
+        android:layout_marginBottom="92dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:text="@string/cit_net_error"
+        android:textColor="@color/gray"
+        android:textSize="18sp"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/cit_ad_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="92dp"
+        android:layout_alignParentBottom="true"
+        android:contentDescription="@string/iamge_content_description"
+        android:scaleType="fitXY" />
+
+</RelativeLayout>

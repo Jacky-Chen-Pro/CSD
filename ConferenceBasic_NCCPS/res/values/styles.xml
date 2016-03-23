@@ -1,0 +1,112 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+
+
+    -->
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+        <item name="android:listDivider">@drawable/divider_bg</item>
+    </style>
+
+<!--    &lt;!&ndash; Application theme. &ndash;&gt;
+    <style name="AppTheme" parent="AppBaseTheme">
+        &lt;!&ndash; All customizations that are NOT specific to a particular API-level can go here. &ndash;&gt;
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/white</item>
+    </style>-->
+
+    <style name="StarCheckBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/btn_star</item>
+        <item name="android:maxHeight">10.0dip</item>
+    </style>
+
+    <style name="HyrcCheckBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/check_hyrc</item>
+    </style>
+
+    <style name="SwitchButton" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/btn_switch</item>
+        <item name="android:height">20dp</item>
+        <item name="android:width">48dp</item>
+    </style>
+
+    <style name="loading_dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowBackground">@drawable/loading_dialog_style</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="SimpleDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Activity</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+    </style>
+
+    <style name="SimpleProgressDialog" parent="@style/SimpleDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+
+    <style name="MyCustomTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">18sp</item>
+        <item name="textAllCaps">true</item>
+    </style>
+
+    <style name="icon_popup_window">
+        <item name="android:windowEnterAnimation">@anim/slide_up</item>
+        <item name="android:windowExitAnimation">@anim/slide_down</item>
+    </style>
+
+    <style name="dir_popupwindow_anim">
+        <item name="android:windowEnterAnimation">@anim/slide_up</item>
+        <item name="android:windowExitAnimation">@anim/slide_down</item>
+    </style>
+
+    <style name="popupwindow_anim_alpha">
+        <item name="android:windowEnterAnimation">@anim/alpha_in</item>
+        <item name="android:windowExitAnimation">@anim/alpha_out</item>
+    </style>
+
+    <declare-styleable name="JazzyViewPager">
+        <attr name="style">
+            <enum name="standard" value="0" />
+            <enum name="tablet" value="1" />
+            <enum name="cubein" value="2" />
+            <enum name="cubeout" value="3" />
+            <enum name="flipvertical" value="4" />
+            <enum name="fliphorizontal" value="5" />
+            <enum name="stack" value="6" />
+            <enum name="zoomin" value="7" />
+            <enum name="zoomout" value="8" />
+            <enum name="rotateup" value="9" />
+            <enum name="rotatedown" value="10" />
+            <enum name="accordion" value="11" />
+        </attr>
+        <attr name="fadeEnabled" format="boolean" />
+        <attr name="outlineEnabled" format="boolean" />
+        <attr name="outlineColor" format="color|reference" />
+    </declare-styleable>
+
+    <style name="ChyCheckBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/selector_checkbox</item>
+    </style>
+    <style name="AppBaseTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppBaseTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppBaseTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

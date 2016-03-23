@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CHY_CSD.iml" filepath="$PROJECT_DIR$/CHY_CSD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConferenceBasic_NCCPS/ConferenceBasic_NCCPS.iml" filepath="$PROJECT_DIR$/ConferenceBasic_NCCPS/ConferenceBasic_NCCPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_flowlayout/library_flowlayout.iml" filepath="$PROJECT_DIR$/library_flowlayout/library_flowlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_gesture_imageview/library_gesture_imageview.iml" filepath="$PROJECT_DIR$/library_gesture_imageview/library_gesture_imageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_pulltorefresh/library_pulltorefresh.iml" filepath="$PROJECT_DIR$/library_pulltorefresh/library_pulltorefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_stick_header_listview/library_stick_header_listview.iml" filepath="$PROJECT_DIR$/library_stick_header_listview/library_stick_header_listview.iml" />
+    </modules>
+  </component>
+</project>

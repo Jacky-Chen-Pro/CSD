@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFF"
+        android:orientation="vertical"
+        android:paddingBottom="5dp" >
+
+        <com.android.incongress.cd.conference.uis.IncongressTextView
+            android:id="@+id/itv_speaker_type"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="4dp"
+            android:paddingLeft="15dp"
+            android:paddingTop="4dp"
+            android:textColor="#adadad"
+            android:textSize="14sp" />
+
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+
+            <com.android.incongress.cd.conference.utils.PinnedHeaderListView
+                android:id="@+id/speaker_speak_list"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center_vertical"
+                android:background="#00FFFFFF"
+                android:cacheColorHint="#fff4f4f4"
+                android:divider="@color/dividerColor"
+                android:dividerHeight="1px"
+                android:drawSelectorOnTop="false"
+                android:fadingEdgeLength="0.0dp"
+                android:listSelector="@color/selectorgray"
+                android:scrollingCache="false"
+                android:smoothScrollbar="true" />
+
+            <com.android.incongress.cd.conference.utils.BladeView
+                android:id="@+id/speaker_letterListView"
+                android:layout_width="30dp"
+                android:layout_height="fill_parent"
+                android:layout_gravity="right"
+                android:background="#00000000"
+                android:paddingTop="10dp" />
+        </FrameLayout>
+    </LinearLayout>
+
+    <com.android.incongress.cd.conference.uis.IncongressTextView
+        android:id="@+id/no_speaker_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="50dp"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:textColor="@color/gray"
+        android:textSize="14sp" />
+</RelativeLayout>

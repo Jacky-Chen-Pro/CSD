@@ -1,0 +1,138 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center" >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top|center_horizontal"
+                android:padding="20dp"
+                android:src="@drawable/dl_logo" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/dl_bg_shuru"
+                android:gravity="center_vertical"
+                android:orientation="vertical"
+                android:layout_margin="20dp"
+                android:padding="30dp" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/dl_shurukuang"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+                    <com.android.incongress.cd.conference.uis.IncongressEditText
+                        android:id="@+id/login_phone"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        android:background="@null"
+                        android:drawableLeft="@drawable/dl_icon_phone"
+                        android:drawablePadding="5dp"
+                        android:hint="@string/login_phone_hint"
+                        android:paddingLeft="10dp"
+                        android:textSize="14sp"
+                        android:textColorHint="#787878"
+                        android:singleLine="true" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/dl_shurukuang"
+                    android:gravity="center_vertical"
+                    android:layout_marginTop="20dp"
+                    android:orientation="horizontal" >
+
+                    <com.android.incongress.cd.conference.uis.IncongressEditText
+                        android:id="@+id/login_password"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        android:background="@null"
+                        android:drawableLeft="@drawable/dl_icon_mima"
+                        android:drawablePadding="5dp"
+                        android:hint="@string/login_password_hint"
+                        android:inputType="textPassword"
+                        android:paddingLeft="10dp"
+                        android:textSize="14sp"
+                        android:textColorHint="#787878"
+                        android:singleLine="true" />
+                </LinearLayout>
+
+                <com.android.incongress.cd.conference.uis.IncongressTextView
+                    android:id="@+id/login_forget_password"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/login_password_forget"
+                    android:textSize="10sp"
+                    android:textColor="@color/theme_color" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:orientation="horizontal"
+                android:layout_gravity="center_horizontal"
+                android:paddingTop="5dp"
+                android:weightSum="2" >
+
+                <Button
+                    android:id="@+id/register"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/dl_btn_bg"
+                    android:gravity="center"
+                    android:textColor="@color/white"
+                    android:textSize="14sp"
+                    android:text="@string/incongress_register" />
+
+                <Button
+                    android:id="@+id/login"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/dl_btn_bg"
+                    android:gravity="center"
+                    android:textColor="@color/white"
+                    android:textSize="14sp"
+                    android:text="@string/incongress_login" />
+            </LinearLayout>
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/login_try_use"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:paddingTop="30dp"
+                android:textSize="12sp"
+                android:text="@string/login_try_use"
+                android:textColor="@color/theme_color" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

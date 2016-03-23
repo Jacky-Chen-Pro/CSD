@@ -1,0 +1,66 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '23.0.1'
+    useLibrary 'org.apache.http.legacy'
+
+    defaultConfig {
+        applicationId "com.mobile.incongress.cd.conference.basic.csd"
+        minSdkVersion 14
+        targetSdkVersion 22
+        versionCode 6
+        versionName "3.0.3"
+    }
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+    lintOptions {
+        abortOnError false
+        disable 'MissingTranslation'
+    }
+
+    signingConfigs {
+        Conference_Key {
+            keyAlias 'china'
+            keyPassword 'wwl100'
+            storeFile file('E:/A-Company_Project_Keys/参会易Android_key/Key_Incongress')
+            storePassword 'wwl100'
+        }
+    }
+
+    buildTypes {
+        debug {
+            signingConfig signingConfigs.Conference_Key
+        }
+        release {
+            signingConfig signingConfigs.Conference_Key
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: '*.jar', dir: 'libs')
+    compile 'com.android.support:appcompat-v7:23.1.0'
+    compile 'com.android.support:support-v4:23.1.0'
+    compile 'com.android.support:design:23.1.0'
+    compile 'com.android.support:cardview-v7:23.1.0'
+    compile 'com.bm.photoview:library:1.3.6'
+    compile 'com.google.code.gson:gson:2.5'
+    compile 'com.yqritc:recyclerview-flexibledivider:1.2.8'
+    compile project(':library_flowlayout')
+    compile project(':library_gesture_imageview')
+    compile project(':library_pulltorefresh')
+    compile project(':library_stick_header_listview')
+}

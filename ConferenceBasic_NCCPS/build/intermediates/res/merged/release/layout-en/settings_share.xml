@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<LinearLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FFF"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="15dp" >
+
+    <com.android.incongress.cd.conference.uis.IncongressTextView
+        android:id="@+id/settings_contact"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/setting_share_icon"
+        android:drawablePadding="20dp"
+        android:gravity="center_vertical"
+        android:paddingTop="10dp"
+        android:textColor="#787878"
+        android:text="@string/settings_share_hint"
+        android:textSize="11sp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:weightSum="2"
+        android:paddingTop="10dp" >
+
+        <com.android.incongress.cd.conference.uis.IncongressTextView
+            android:id="@+id/share_mms"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:textColor="#FFF"
+            android:textSize="12sp"
+            android:background="@drawable/setting_share_bg"
+            android:text="@string/settings_share_sms"
+            android:gravity="center" />
+
+        <com.android.incongress.cd.conference.uis.IncongressTextView
+            android:id="@+id/share_mail"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:background="@drawable/setting_share_bg"
+            android:textColor="#FFF"
+            android:gravity="center"
+            android:textSize="12sp"
+            android:layout_marginLeft="2dp"
+            android:text="@string/settings_share_mail" />
+    </LinearLayout>
+
+</LinearLayout>
+</RelativeLayout>

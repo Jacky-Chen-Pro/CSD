@@ -1,0 +1,240 @@
+[
+    {
+        "outputFile": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 101,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\CHY_CSD\\library_pulltorefresh\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 101,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endColumn": 113,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\CHY_CSD\\library_pulltorefresh\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 113,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 107,
+                    "endOffset": 374
+                },
+                "from": {
+                    "file": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\CHY_CSD\\library_pulltorefresh\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 271,
+                        "endColumn": 107,
+                        "endOffset": 374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 379,
+                    "endColumn": 60,
+                    "endOffset": 435
+                },
+                "from": {
+                    "file": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\CHY_CSD\\library_pulltorefresh\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 379,
+                        "endColumn": 60,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 66,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\CHY_CSD\\library_pulltorefresh\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 66,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endColumn": 64,
+                    "endOffset": 567
+                },
+                "from": {
+                    "file": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\CHY_CSD\\library_pulltorefresh\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 64,
+                        "endOffset": 567
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 101,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\CHY_CSD\\library_pulltorefresh\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 101,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endColumn": 113,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\CHY_CSD\\library_pulltorefresh\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 113,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 107,
+                    "endOffset": 374
+                },
+                "from": {
+                    "file": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\CHY_CSD\\library_pulltorefresh\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 271,
+                        "endColumn": 107,
+                        "endOffset": 374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 379,
+                    "endColumn": 60,
+                    "endOffset": 435
+                },
+                "from": {
+                    "file": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\CHY_CSD\\library_pulltorefresh\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 379,
+                        "endColumn": 60,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 66,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\CHY_CSD\\library_pulltorefresh\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 66,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endColumn": 64,
+                    "endOffset": 567
+                },
+                "from": {
+                    "file": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\CHY_CSD\\library_pulltorefresh\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 64,
+                        "endOffset": 567
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/iv_notify"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_launcher"/>
+
+    <com.android.incongress.cd.conference.uis.IncongressTextView
+        android:id="@+id/itv_notify_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:layout_toRightOf="@id/iv_notify"
+        android:layout_marginLeft="10dp"
+        android:text="我是标题"/>
+
+    <com.android.incongress.cd.conference.uis.IncongressTextView
+        android:id="@+id/itv_notify_content"
+        android:layout_width="match_parent"
+        android:layout_toRightOf="@id/iv_notify"
+        android:layout_marginLeft="10dp"
+        android:maxLines="4"
+        android:layout_below="@id/itv_notify_title"
+        android:layout_height="wrap_content"
+        android:text="我是内容，我很长有木有，我还想换行,我是内容，我很长有木有，我还想换行我是内容，我很长有木有，我还想换行我是内容，我很长有木有，我还想换行我是内容，我很长有木有，我还想换行我是内容，我很长有木有，我还想换行,我是内容，我很长有木有，我还想换行"/>
+
+</RelativeLayout>

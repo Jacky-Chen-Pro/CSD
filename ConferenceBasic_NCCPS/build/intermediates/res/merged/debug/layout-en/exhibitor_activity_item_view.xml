@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+  >
+    
+      <ImageView 
+        android:id="@+id/exhibitor_logo"
+        android:layout_width="50dp"
+        android:layout_height="100dp"
+        android:adjustViewBounds="true"
+        android:paddingLeft="10dp"
+        android:scaleType="fitCenter"
+        android:layout_centerVertical="true"
+        />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/exhibitor_logo"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="5dp"
+        android:orientation="vertical"
+        android:paddingLeft="15dp" >
+
+        <com.android.incongress.cd.conference.uis.IncongressTextView
+            android:id="@+id/exhibitor_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:text="@string/test"
+            android:textColor="#000"
+            android:textSize="15sp" />
+    </LinearLayout>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/me_next" />
+
+</RelativeLayout>

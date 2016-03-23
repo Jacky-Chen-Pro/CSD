@@ -1,0 +1,71 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ExampleActivity" >
+
+    <include
+        android:id="@+id/include_title"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        layout="@layout/title" />
+
+    <!-- View that will be hidden when video goes fullscreen -->
+
+    <RelativeLayout
+        android:id="@+id/nonVideoLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/include_title" >
+
+        <com.android.incongress.cd.conference.uis.VideoEnabledWebView
+            android:id="@+id/webView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </RelativeLayout>
+
+    <!-- View where the video will be shown when video goes fullscreen -->
+
+    <RelativeLayout
+        android:id="@+id/videoLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/pb_loading"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/webview_bottom"
+        android:layout_below="@id/include_title"
+        android:background="#66CACACA"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <ProgressBar
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <com.android.incongress.cd.conference.uis.IncongressTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:text="@string/loading" />
+    </LinearLayout>
+
+    <com.android.incongress.cd.conference.uis.IncongressTextView
+        android:id="@+id/itv_net_error"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/include_title"
+        android:background="@color/white"
+        android:gravity="center"
+        android:text="@string/cit_net_error"
+        android:textColor="@color/gray"
+        android:textSize="18sp"
+        android:visibility="gone" />
+
+</RelativeLayout>

@@ -1,0 +1,107 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/title_container"
+    android:layout_width="fill_parent"
+    android:layout_height="50dp"
+    android:background="@color/darkpurple">
+
+    <LinearLayout
+        android:id="@+id/title_back_panel"
+        android:layout_width="55dp"
+        android:layout_height="fill_parent"
+        android:layout_centerVertical="true"
+        android:clickable="true" >
+
+         <ImageView
+            android:id="@+id/title_back"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="center" 
+            android:src="@drawable/nav_btn_back"
+            android:clickable="false"
+            android:focusable="false" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/title_baseline"
+        android:layout_width="1px"
+        android:layout_height="fill_parent"
+        android:visibility="gone"
+        android:layout_toRightOf="@id/title_back_panel"
+        android:background="@color/titlebardivider" />
+
+    <LinearLayout
+        android:id="@+id/title_home_panel"
+        android:layout_width="55dp"
+        android:layout_height="fill_parent"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:clickable="true" >
+        <Button
+            android:id="@+id/title_home"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:layout_gravity="center"
+            android:background="@null" />
+    </LinearLayout>
+
+    <com.android.incongress.cd.conference.uis.IncongressTextView
+        android:id="@+id/title_text"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:text="@string/app_name"
+        android:layout_toRightOf="@id/title_baseline"
+        android:layout_toLeftOf="@id/title_home_panel"
+        android:gravity="center"
+        android:singleLine="true"
+        android:layout_centerInParent="true"
+        android:ellipsize="middle"
+        android:textColor="#FFF"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:id="@+id/title_costom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_edit_mode"
+        android:visibility="gone"
+        android:background="@color/darkpurple"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tv_cancel"
+            android:layout_width="55dp"
+            android:text="@string/negative_button"
+            android:gravity="center"
+            android:textSize="@dimen/text_size_media"
+            android:textColor="@color/white"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/tv_ok"
+            android:layout_width="55dp"
+            android:text="@string/positive_button"
+            android:gravity="center"
+            android:layout_alignParentRight="true"
+            android:textSize="@dimen/text_size_media"
+            android:textColor="@color/white"
+            android:layout_height="match_parent" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

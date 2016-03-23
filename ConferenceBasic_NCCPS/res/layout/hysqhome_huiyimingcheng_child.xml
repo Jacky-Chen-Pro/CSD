@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="vertical" >
+
+    <com.android.incongress.cd.conference.uis.IncongressTextView
+        android:id="@+id/hysqhome_huiyimingcheng_group_title"
+        android:layout_width="fill_parent"
+        android:layout_height="20dp"
+        android:background="#EFEEF3"
+        android:textColor="#8b8a90"
+        android:paddingLeft="15dp"
+        android:textSize="12sp"
+        />
+
+    <com.android.incongress.cd.conference.uis.IncongressTextView
+        android:id="@+id/hysqhome_huiyimingcheng_textItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minHeight="60dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="15dp"
+        android:paddingRight="5dp"
+        android:paddingTop="2dp"
+        android:text="@string/test"
+        android:textSize="14sp"
+        android:maxLines="2"
+        android:ellipsize="end"
+        android:textColor="#FF000000" />
+
+</LinearLayout>

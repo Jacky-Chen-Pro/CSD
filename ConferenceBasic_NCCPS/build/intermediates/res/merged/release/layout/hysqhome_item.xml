@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    >
+<LinearLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="10dp" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/framebackgroud" >
+
+        <RelativeLayout
+            android:id="@+id/hysq_home_tiezi_author_time"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center_vertical" >
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/hysq_home_tiezi_author"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:text="@string/test"
+                android:textColor="#000"
+                android:textSize="12sp" />
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/hysq_home_tiezi_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:text="@string/test"
+                android:textColor="#808080"
+                android:textSize="11sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/hysq_home_tiezi"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/hysq_home_tiezi_author_time"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp" >
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/hysq_home_tiezi_at"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:text="@string/test"
+                android:textColor="#000"
+                android:textSize="15sp"
+                android:visibility="gone" />
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/hysq_home_tiezi_message"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/hysq_home_tiezi_at"
+                android:ellipsize="end"
+                android:maxLines="3"
+                android:text="@string/test"
+                android:textColor="#000"
+                android:textSize="14sp" />
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/hysq_home_tiezi_metting"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/hysq_home_tiezi_message"
+                android:ellipsize="end"
+                android:maxLines="2"
+                android:text="@string/test"
+                android:textColor="#000"
+                android:textSize="13sp" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@id/hysq_home_tiezi"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical" >
+
+            <View
+                android:id="@+id/hysq_home_tiezi_base_h"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@drawable/hysq_body_tiezi_line_h" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <com.android.incongress.cd.conference.uis.IncongressTextView
+                    android:id="@+id/hysq_home_tiezi_pinglun"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="10dp"
+                    android:drawableLeft="@drawable/hysq_icon_pinglun" 
+                    android:drawablePadding="3dp"
+                    android:gravity="center_vertical"
+                    android:minWidth="70dp"
+                    android:textColor="#AEAEAE"
+                    android:textSize="13sp" />
+
+                <com.android.incongress.cd.conference.uis.IncongressTextView
+                    android:id="@+id/hysq_home_tiezi_praise_number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:layout_alignParentRight="true"
+                    android:drawablePadding="3dp"
+                    android:gravity="center_vertical"
+                    android:minWidth="70dp"
+                    android:textColor="#AEAEAE"
+                    android:textSize="13sp" />
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>
+</RelativeLayout>

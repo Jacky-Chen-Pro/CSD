@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hessdroid">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ConferenceBasic_NCCPS/libs/hessdroid.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

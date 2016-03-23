@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingTop="20dp"
+    android:layout_gravity="center" >
+
+    <com.android.incongress.cd.conference.uis.IncongressEditText
+        android:id="@+id/login_forget_phone"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:hint="@string/login_forget_hint"
+        android:paddingLeft="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/dl_shurukuang"
+        android:singleLine="true" />
+   <Button
+                android:id="@+id/login_forget_button"
+                android:layout_below="@id/login_forget_phone"
+                android:layout_marginTop="10dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/dl_btn_bg"
+                android:gravity="center"
+                android:text="@string/login_forget_conform" />
+</RelativeLayout>

@@ -1,0 +1,95 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        >
+        <LinearLayout
+            android:id="@+id/metting_schedule_details_child_star_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:focusable="false"
+            android:minHeight="50dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp" >
+
+            <CheckBox
+                android:id="@+id/metting_schedule_details_child_star"
+                style="@style/StarCheckBox"
+                android:layout_width="16dp"
+                android:layout_height="18dp"
+                android:layout_gravity="center"
+                android:focusable="false" />
+        </LinearLayout>
+
+        <View
+            android:id="@+id/metting_schedule_details_child_base"
+            android:layout_width="1dp"
+            android:layout_height="57dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/metting_schedule_details_child_star_layout"
+            android:background="@drawable/hyrc_body_line_v" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:layout_toLeftOf="@+id/metting_schedule_speech_image"
+            android:layout_toRightOf="@id/metting_schedule_details_child_base"
+            android:orientation="vertical"
+            android:paddingLeft="5dp" >
+            <LinearLayout 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                >
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/metting_schedule_details_speech_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="@string/test"
+                android:textColor="@color/theme_color"
+                android:textSize="10sp" />
+             <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/metting_schedule_details_speech_speaker"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="@string/test"
+                android:textColor="@color/theme_color"
+                android:textSize="10sp" />
+           </LinearLayout>
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/metting_schedule_details_speech_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="@string/test"
+                android:textColor="#000"
+                android:singleLine="false"
+                android:maxLines="2"
+                android:ellipsize="end"
+                android:textSize="11sp" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@id/metting_schedule_speech_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/me_next" />
+    </RelativeLayout>
+
+</LinearLayout>

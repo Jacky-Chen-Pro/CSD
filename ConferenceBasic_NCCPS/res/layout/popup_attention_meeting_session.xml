@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <LinearLayout
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:background="@color/white"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:background="#CDEED9"
+            android:textColor="#004519"
+            android:padding="@dimen/layout_padding"
+            android:text="已关注此会议，我们默认将在会前5分钟进行提醒以免错过重要会议，会议提醒时间也可在个人中心进行设置。"
+            android:layout_height="wrap_content"/>
+
+        <LinearLayout
+            android:id="@+id/ll_session_container"
+            android:layout_width="match_parent"
+            android:padding="@dimen/layout_padding"
+            android:orientation="horizontal"
+            android:background="@drawable/line_left_right_bottom"
+            android:gravity="center_vertical"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/iv_session_attention"
+                android:src="@drawable/bt_uncollected"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_marginLeft="@dimen/layout_margin"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:textSize="@dimen/text_size_large"
+                    android:textColor="@color/black"
+                    android:layout_width="wrap_content"
+                    android:id="@+id/tv_session_name"
+                    android:singleLine="true"
+                    android:ellipsize="middle"
+                    android:text="示教演示1"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:textSize="@dimen/text_size_large"
+                    android:textColor="@color/black"
+                    android:text="8:00AM-10:00AM"
+                    android:id="@+id/tv_session_time"
+                    android:layout_marginTop="6dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:padding="@dimen/layout_padding"
+            android:textColor="#8b8a90"
+            android:text="您还可以关注以下发言"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <com.android.incongress.cd.conference.uis.ListViewForScrollView
+            android:padding="@dimen/layout_padding"
+            android:id="@+id/lv_meetings"
+            android:layout_width="match_parent"
+            android:dividerHeight="0dp"
+            android:cacheColorHint="@color/transparent"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,610 @@
+[
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\btn_pmt_info.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\btn_pmt_info.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\operater_more_background.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\operater_more_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\circle_white_bg.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\circle_white_bg.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\vpi__tab_indicator.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\divider_bg.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\divider_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\selector_edit_bg.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\selector_edit_bg.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\icon_tips_information.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\icon_tips_information.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\line_left_right_bottom.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\line_left_right_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\btn_hyxq_time.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\btn_hyxq_time.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\list_selector.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\bt_background.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\bt_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\vpi__tab_indicator.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\home_circle_bg.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\home_circle_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\selector_checkbox.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\selector_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\bg_button.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\bg_button.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\bg_button.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\bg_button.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\item_border_selected.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\item_border_selected.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\icon_tips_classes.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\icon_tips_classes.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\circle_bg.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\circle_bg.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\circle_white_bg.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\circle_white_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\icon_search_huiyi.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\icon_search_huiyi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\btn_hyxq.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\btn_hyxq.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\green_round_rectle_background.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\green_round_rectle_background.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\table_row_divider_gap.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\table_row_divider_gap.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\icon_search_mic.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\icon_search_mic.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\btn_pmt_cgt.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\btn_pmt_cgt.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\loading_dialog_style.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\loading_dialog_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\btn_hyxq.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\btn_hyxq.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\progressbar.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\dot.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\dot.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\selector_checkbox.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\selector_checkbox.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\CHY_CSD\\library_pulltorefresh\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\background_speakers_roles.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\background_speakers_roles.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\bg_register_editor.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\bg_register_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\bg_border.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\bg_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\csccm_wx_icon.jpg",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\csccm_wx_icon.jpg"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\table_row_divider_gap.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\table_row_divider_gap.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\table_row_divider.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\table_row_divider.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\background_speakers_roles.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\background_speakers_roles.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\btn_star.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\btn_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\bg_register_editor.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\bg_register_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\check_hyrc.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\check_hyrc.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\selector_edit_bg.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\selector_edit_bg.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\bg_login_selected.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\bg_login_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\icon_search_huiyi.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\icon_search_huiyi.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\simple_dialog_background.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\simple_dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\progress.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\operater_more_background.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\operater_more_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\item_border_selected.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\item_border_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\label_background.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\label_background.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\green_round_rectle_background.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\green_round_rectle_background.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\btn_switch.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\btn_switch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\bg_button_gray.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\bg_button_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\login_et_bg.png",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\login_et_bg.png"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\alertdialog.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\alertdialog.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\csccm_wx_icon.jpg",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\csccm_wx_icon.jpg"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\image_bounds.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\image_bounds.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\CHY_CSD\\library_pulltorefresh\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\bg_login_selected.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\bg_login_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\line_left_right_bottom.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\line_left_right_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\btn_settingupdate.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\btn_settingupdate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\tip_inf_expand.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\tip_inf_expand.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\bg_login_unselected.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\bg_login_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\tip_inf_expand.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\tip_inf_expand.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\icon_tips_information.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\icon_tips_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\login_et_bg.png",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\login_et_bg.png"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\bg_login_unselected.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\bg_login_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\item_selector.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\item_selector.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\home_circle_number_bg.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\home_circle_number_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\home_circle_bg.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\home_circle_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\btn_star.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\btn_star.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\item_border.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\item_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\btn_pmt_cgt.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\btn_pmt_cgt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\item_border.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\item_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\image_bounds.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\image_bounds.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\progressbar.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\bg_button_gray.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\bg_button_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\table_row_divider.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\table_row_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\CHY_CSD\\library_pulltorefresh\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\dot.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\dot.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\btn_settingupdate.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\btn_settingupdate.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\loading_dialog_style.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\loading_dialog_style.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\item_selector.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\label_background.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\label_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\circle_bg.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\circle_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\divider_bg.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\divider_bg.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\icon_search_mic.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\icon_search_mic.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\btn_pmt_info.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\btn_pmt_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\CHY_CSD\\library_pulltorefresh\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\list_selector.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\btn_hyxq_time.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\btn_hyxq_time.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\progress.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\check_hyrc.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\check_hyrc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\bg_border.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\bg_border.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\home_circle_number_bg.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\home_circle_number_bg.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\simple_dialog_background.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\simple_dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\alertdialog.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\alertdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\bt_background.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\bt_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\btn_switch.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\btn_switch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\icon_tips_classes.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\drawable\\icon_tips_classes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    }
+]

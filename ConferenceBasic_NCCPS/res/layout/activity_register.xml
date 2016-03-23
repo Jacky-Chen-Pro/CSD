@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E7E7E7"
+    android:orientation="vertical">
+
+    <include layout="@layout/title" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <com.android.incongress.cd.conference.uis.ClearEditText
+            android:id="@+id/cet_mobile"
+            android:layout_width="match_parent"
+            android:layout_height="46dp"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/bg_login_selected"
+            android:hint="@string/telephone_number"
+            android:paddingBottom="4dp"
+            android:paddingLeft="12dp"
+            android:paddingTop="4dp" />
+
+        <Button
+            android:id="@+id/bt_next"
+            android:layout_width="match_parent"
+            android:layout_height="46dp"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/bg_button"
+            android:text="@string/register_next"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_large" />
+
+    </LinearLayout>
+
+</LinearLayout>

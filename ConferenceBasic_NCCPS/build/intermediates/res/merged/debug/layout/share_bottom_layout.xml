@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:background="#DFE3E4"
+        android:paddingBottom="16dp"
+        android:paddingTop="16dp"
+        android:paddingLeft="@dimen/layout_padding"
+        android:paddingRight="@dimen/layout_padding"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_share_wechat"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="@string/meeting_schedule_wx"
+            android:drawableTop="@drawable/share_wechat"
+            android:drawablePadding="6dp"
+            android:gravity="center"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="@string/meeting_schedule_circle"
+            android:id="@+id/tv_share_friend_circle"
+            android:drawableTop="@drawable/share_friend_circle"
+            android:drawablePadding="6dp"
+            android:gravity="center"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:id="@+id/tv_share_email"
+            android:text="@string/meeting_schedule_yj"
+            android:drawableTop="@drawable/share_email"
+            android:drawablePadding="6dp"
+            android:gravity="center"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="@string/meeting_schedule_dx"
+            android:id="@+id/tv_share_sms"
+            android:drawableTop="@drawable/share_message"
+            android:drawablePadding="6dp"
+            android:gravity="center"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <Button
+        android:padding="@dimen/layout_padding"
+        android:text="@string/search_cancel"
+        android:id="@+id/bt_cancel"
+        android:background="#F5F5F5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

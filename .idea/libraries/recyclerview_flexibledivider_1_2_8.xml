@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="recyclerview-flexibledivider-1.2.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ConferenceBasic_NCCPS/build/intermediates/exploded-aar/com.yqritc/recyclerview-flexibledivider/1.2.8/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/ConferenceBasic_NCCPS/build/intermediates/exploded-aar/com.yqritc/recyclerview-flexibledivider/1.2.8/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yqritc/recyclerview-flexibledivider/1.2.8/816d55a2439d322ea02f8062b5d9aa32aff6a4e3/recyclerview-flexibledivider-1.2.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

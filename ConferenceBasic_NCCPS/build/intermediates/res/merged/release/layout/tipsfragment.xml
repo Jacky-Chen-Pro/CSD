@@ -1,0 +1,22 @@
+ <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal" >
+
+        <ExpandableListView
+            android:id="@+id/tips_information_list"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:background="#FFF"
+            android:cacheColorHint="@null"
+            android:divider="@color/dividerColor"
+            android:listSelector="@color/selectorgray"
+            android:dividerHeight="1.0px"
+            android:drawSelectorOnTop="false"
+            android:fadingEdgeLength="0.0dp"
+            android:scrollbars="none"
+            android:scrollingCache="false"
+            android:smoothScrollbar="true" />
+    </LinearLayout>

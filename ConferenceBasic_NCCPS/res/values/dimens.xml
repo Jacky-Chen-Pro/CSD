@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="selectcity_group_item_padding">14dp</dimen>
+    <dimen name="bladeview_popup_height">80dp</dimen>
+    
+    <dimen name="bladeview_fontsize">12sp</dimen>
+    <dimen name="bladeview_popup_fontsize">20sp</dimen>
+    
+    <dimen name="emoticon_bound_size">20dp</dimen>
+
+    <!--  官方推荐的字体大小  12、14、16、20 和 34 号 -->
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_media">14sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+
+    <dimen name="layout_padding">12dp</dimen>
+    <dimen name="layout_margin">12dp</dimen>
+    <dimen name="divider_height">0.1dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>

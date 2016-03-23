@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FFF">
+<ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="#EFEFF2"
+            android:orientation="horizontal" >
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/mycenter_welcome"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:drawablePadding="20dp"
+                android:gravity="center_vertical"
+                android:paddingLeft="25dp"
+                android:text="@string/mymeeting_wellcome1"
+                android:textColor="#787878"
+                android:textSize="13sp" />
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/mycenter_user"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:gravity="center_vertical"
+                android:textColor="@color/theme_color"
+                android:textSize="13sp" />
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:gravity="center_vertical"
+                android:text="@string/mymeeting_wellcome2"
+                android:textColor="#787878"
+                android:textSize="13sp" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/mycenter_meeting_panel"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="#FFF"
+            android:clickable="true" >
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/mycenter_meeting"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:drawableLeft="@drawable/wddy_icon_attention_hyfy"
+                android:drawablePadding="20dp"
+                android:gravity="center_vertical"
+                android:paddingLeft="25dp"
+                android:paddingRight="40dp"
+                android:textSize="14sp"
+                android:text="@string/mymeeting_meeting"
+                android:textColor="#FF000000" />
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/mycenter_meeting_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="35dp"
+                android:text="1"
+                android:textColor="@color/theme_color"
+                android:textSize="12sp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"
+                android:src="@drawable/me_next" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@color/dividerColor" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/mycenter_exhibitor_panel"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="#FFF"
+            android:clickable="true" >
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/mycenter_exhibitor"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:drawableLeft="@drawable/wddy_icon_attention_czs"
+                android:drawablePadding="20dp"
+                android:gravity="center_vertical"
+                android:paddingLeft="25dp"
+                android:paddingRight="40dp"
+                android:textSize="14sp"
+                android:text="@string/mymeeting_exhibitor"
+                android:textColor="#FF000000" />
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/mycenter_exhibitor_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="35dp"
+                android:text="0"
+                android:textColor="@color/theme_color"
+                android:textSize="12sp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"
+                android:src="@drawable/me_next" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@color/dividerColor" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/mycenter_activity_panel"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="#FFF"
+            android:clickable="true" >
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/mycenter_activity"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:drawableLeft="@drawable/wddy_icon_attention_zshd"
+                android:drawablePadding="20dp"
+                android:gravity="center_vertical"
+                android:paddingLeft="25dp"
+                android:paddingRight="40dp"
+                android:textSize="14sp"
+                android:text="@string/mymeeting_activity"
+                android:textColor="#FF000000" />
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/mycenter_activity_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="35dp"
+                android:text="0"
+                android:textColor="@color/theme_color"
+                android:textSize="12sp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"
+                android:src="@drawable/me_next" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@color/dividerColor" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/mycenter_tiezi_panel"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="#FFF"
+            android:clickable="true" >
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/mycenter_tiezi"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:drawableLeft="@drawable/wddy_icon_tie"
+                android:drawablePadding="20dp"
+                android:gravity="center_vertical"
+                android:paddingLeft="25dp"
+                android:paddingRight="40dp"
+                android:textSize="14sp"
+                android:text="@string/mymeeting_tiezi"
+                android:textColor="#FF000000" />
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/mycenter_tiezi_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="35dp"
+                android:text="0"
+                android:textColor="@color/theme_color"
+                android:textSize="12sp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"
+                android:src="@drawable/me_next" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@color/dividerColor" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/mycenter_note_panel"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="#FFF"
+            android:clickable="true" >
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/mycenter_note"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:drawableLeft="@drawable/wddy_icon_note"
+                android:drawablePadding="20dp"
+                android:gravity="center_vertical"
+                android:paddingLeft="25dp"
+                android:paddingRight="40dp"
+                android:textSize="14sp"
+                android:text="@string/mymeeting_note"
+                android:textColor="#FF000000" />
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/mycenter_note_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="35dp"
+                android:text="0"
+                android:textColor="@color/theme_color"
+                android:textSize="12sp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"
+                android:src="@drawable/me_next" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@color/dividerColor" />
+        </RelativeLayout>
+        
+        <RelativeLayout
+            android:id="@+id/mycenter_warmning_panel"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="#FFF"
+            android:clickable="true" >
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/mycenter_warmning"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:drawableLeft="@drawable/wddy_icon_alarm"
+                android:drawablePadding="20dp"
+                android:gravity="center_vertical"
+                android:paddingLeft="25dp"
+                android:paddingRight="40dp"
+                android:textSize="14sp"
+                android:text="@string/mymeeting_warning"
+                android:textColor="#FF000000" />
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"
+                android:src="@drawable/me_next" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@color/dividerColor" />
+        </RelativeLayout>
+        <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@color/dividerColor" />
+    </LinearLayout>
+
+</ScrollView>
+
+</RelativeLayout>

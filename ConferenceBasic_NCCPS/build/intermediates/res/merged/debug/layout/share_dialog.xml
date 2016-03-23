@@ -1,0 +1,71 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+  >
+
+    <LinearLayout
+        android:id="@+id/ll_share_in"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:background="@drawable/hyrc_bg_dialog"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/share_to_friend2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/share_to_friend_icon" />
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:text="@string/share_wechat_friend"
+                android:textColor="@color/gray" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/share_to_circle2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/share_to_circle_icon" />
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:text="@string/share_wechat_circle"
+                android:textColor="@color/gray" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/dialog_off"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@id/ll_share_in"
+        android:layout_alignTop="@id/ll_share_in"
+        android:layout_marginTop="-10dp"
+         android:layout_marginRight="-10dp"
+        android:src="@drawable/dl_btn_off" />
+
+</RelativeLayout>

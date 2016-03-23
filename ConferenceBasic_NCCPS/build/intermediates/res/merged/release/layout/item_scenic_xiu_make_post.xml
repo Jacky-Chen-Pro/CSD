@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:paddingBottom="6dp"
+    android:paddingLeft="@dimen/layout_padding"
+    android:paddingRight="@dimen/layout_padding"
+    android:paddingTop="@dimen/layout_padding">
+
+    <LinearLayout
+        android:id="@+id/ll_top_base_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <com.android.incongress.cd.conference.uis.CircleImageView
+            android:id="@+id/civ_publisher"
+            android:layout_width="46dp"
+            android:layout_height="46dp"
+            android:src="@drawable/professor_default" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/layout_margin"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_publisher_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Jim"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_media" />
+
+            <TextView
+                android:id="@+id/tv_publish_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="5分钟前"
+                android:textColor="@color/gray"
+                android:textSize="@dimen/text_size_small" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_second_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ll_top_base_info"
+        android:layout_marginTop="@dimen/layout_margin"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_publish_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="大会就要开始了，激动激动！！"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_size_large" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_third_pics"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ll_second_content"
+        android:layout_marginTop="@dimen/layout_margin"
+        android:orientation="horizontal">
+
+        <com.android.incongress.cd.conference.uis.NoScrollGridView
+            android:id="@+id/gv_pics"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:horizontalSpacing="5dip"
+            android:numColumns="3"
+            android:stretchMode="columnWidth"
+            android:verticalSpacing="5dip" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_fourth_info"
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:layout_below="@id/ll_third_pics"
+        android:layout_marginTop="@dimen/layout_margin">
+
+        <TextView
+            android:id="@+id/tv_comment_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/layout_margin"
+            android:drawableLeft="@drawable/comment_icon"
+            android:drawablePadding="4dp"
+            android:text="2人评论" />
+
+        <TextView
+            android:id="@+id/tv_praise_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/tv_comment_num"
+            android:drawableLeft="@drawable/praise"
+            android:drawablePadding="4dp"
+            android:text="4人点赞" />
+
+        <ImageView
+            android:id="@+id/iv_operate_more"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:scaleType="fitCenter"
+            android:src="@drawable/comment_more" />
+
+        <LinearLayout
+            android:id="@+id/ll_more_operate_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="4dp"
+            android:layout_toLeftOf="@id/iv_operate_more"
+            android:background="@drawable/operater_more_background"
+            android:orientation="horizontal"
+            android:paddingBottom="6dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="6dp"
+            android:visibility="invisible">
+
+            <TextView
+                android:id="@+id/tv_comment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/operate_comment"
+                android:drawablePadding="4dp"
+                android:text="@string/hysq_home_pinlun"
+                android:textColor="#c9c9c9"
+                android:textSize="@dimen/text_size_small" />
+
+            <View
+                android:layout_width="0.1dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/layout_margin"
+                android:layout_marginRight="@dimen/layout_margin"
+                android:background="#373D40" />
+
+            <TextView
+                android:id="@+id/tv_praise"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/operate_praise"
+                android:drawablePadding="4dp"
+                android:text="@string/hysq_home_zan"
+                android:textColor="#c9c9c9"
+                android:textSize="@dimen/text_size_small" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_fifth_comments"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/rl_fourth_info"
+        android:layout_marginTop="@dimen/layout_margin"
+        android:orientation="horizontal">
+
+        <com.android.incongress.cd.conference.uis.ListViewForScrollView
+            android:id="@+id/lv_commets"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#c9c9c9"
+            android:cacheColorHint="@android:color/transparent"
+            android:dividerHeight="0dp" />
+    </LinearLayout>
+
+    <ImageView android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/gray"/>
+
+</RelativeLayout>
+

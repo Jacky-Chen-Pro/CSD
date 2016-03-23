@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#efeef3"
+    android:orientation="vertical" >
+
+    <com.android.incongress.cd.conference.utils.PinnedHeaderListView
+        android:id="@+id/hysq_home_jiangzhe_pinnedListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:cacheColorHint="@android:color/transparent"
+        android:listSelector="@android:color/transparent"  
+        android:divider="@color/dividerColor"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false"
+         >
+    </com.android.incongress.cd.conference.utils.PinnedHeaderListView>
+
+    <com.android.incongress.cd.conference.utils.BladeView
+        android:id="@+id/hysq_home_jiangzhe_mLetterListView"
+        android:layout_width="20dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:background="@color/transparent"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="暂无讲者数据"
+        android:id="@+id/tv_tips"
+        android:textColor="@color/gray"
+        android:visibility="gone"
+        android:layout_centerInParent="true"
+        />
+
+</RelativeLayout>

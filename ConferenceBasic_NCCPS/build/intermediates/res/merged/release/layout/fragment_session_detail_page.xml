@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_whole_view"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/layout_padding"
+                android:layout_marginRight="@dimen/layout_padding"
+                android:layout_marginTop="@dimen/layout_padding"
+                android:background="@color/theme_color"
+                android:orientation="horizontal"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp"
+                android:paddingBottom="6dp"
+                android:paddingTop="6dp">
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/tv_schedule_time"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="2016年3月17日"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/text_size_media" />
+
+                    <TextView
+                        android:id="@+id/tv_schedule_detail_time"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/layout_margin"
+                        android:layout_toRightOf="@id/tv_schedule_time"
+                        android:drawablePadding="6dp"
+                        android:text="8:00AM-10:00AM"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/text_size_media" />
+
+                    <TextView
+                        android:id="@+id/tv_schedule_room"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/tv_schedule_time"
+                        android:layout_marginTop="4dp"
+                        android:text="一层多功能B厅"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/text_size_media" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="4dp"
+                android:layout_marginLeft="@dimen/layout_padding"
+                android:layout_marginRight="@dimen/layout_padding"
+                android:layout_marginTop="6dp"
+                android:background="@color/theme_color" />
+
+            <LinearLayout
+                android:id="@+id/ll_session_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/layout_padding"
+                android:layout_marginRight="@dimen/layout_padding"
+                android:layout_marginTop="6dp"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp"
+                android:paddingBottom="6dp"
+                android:paddingTop="6dp">
+
+                <ImageView
+                    android:id="@+id/iv_session_alarm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginRight="@dimen/layout_margin"
+                    android:visibility="gone"
+                    android:src="@drawable/sessiondetail_alarmon" />
+
+                <TextView
+                    android:id="@+id/tv_schedule_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:text="示教演示1"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/text_size_large" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_speaker_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/layout_padding"
+                android:layout_marginRight="@dimen/layout_padding"
+                android:layout_marginTop="@dimen/layout_margin"
+                android:orientation="vertical"
+                android:paddingBottom="6dp"
+                android:paddingTop="6dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/layout_margin"
+                android:layout_marginRight="@dimen/layout_margin"
+                android:orientation="vertical">
+
+                <include layout="@layout/speaker_divider" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="36dp"
+                    android:orientation="horizontal">
+
+                    <com.android.incongress.cd.conference.uis.MyButton
+                        android:id="@+id/bt_location"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@null"
+                        android:drawableLeft="@drawable/schedule_location_2"
+                        android:gravity="left|center_vertical"
+                        android:drawablePadding="6dp"
+                        android:text="@string/meeting_schedule_location"
+                        android:textColor="@color/theme_color" />
+
+                    <com.android.incongress.cd.conference.uis.MyButton
+                        android:id="@+id/bt_alarm"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:drawablePadding="6dp"
+                        android:layout_weight="1"
+                        android:background="@null"
+                        android:drawableLeft="@drawable/schedule_alarm"
+                        android:gravity="left|center_vertical"
+                        android:text="@string/meeting_schedule_alarm"
+                        android:textColor="@color/theme_color" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:layout_marginTop="6dp"
+                android:background="@color/scenic_xiu_comment_background" />
+
+            <com.android.incongress.cd.conference.uis.ListViewForScrollView
+                android:id="@+id/lv_meetings"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="@dimen/layout_margin"
+                android:cacheColorHint="@android:color/transparent"
+                android:divider="@null"
+                android:dividerHeight="0dp"
+                android:paddingLeft="@dimen/layout_padding"
+                android:paddingRight="@dimen/layout_padding" />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp" >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/hysq_body_tiezi_bg" >
+
+            <LinearLayout
+                android:id="@+id/hyzs_title_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <com.android.incongress.cd.conference.uis.IncongressTextView
+                    android:id="@+id/hyzs_title"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/test"
+                    android:textColor="#000"
+                    android:textSize="12sp" />
+
+                <com.android.incongress.cd.conference.uis.IncongressTextView
+                    android:id="@+id/hyzs_time"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/test"
+                    android:textColor="#b7b7b7"
+                    android:textSize="9sp" />
+
+                <ImageView
+                    android:id="@+id/hyzs_image"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="10dp"
+                    android:maxHeight="300dp"
+                    android:minHeight="180dp"
+                    android:scaleType="fitXY" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/hyzs_item"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_below="@id/hyzs_title_layout"
+                android:layout_marginTop="10dp"
+                android:gravity="center_vertical"
+                android:orientation="vertical"
+                android:paddingBottom="6dp" >
+
+                <com.android.incongress.cd.conference.uis.IncongressTextView
+                    android:id="@+id/hyzs_msg"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:ellipsize="end"
+                    android:maxLines="3"
+                    android:singleLine="false"
+                    android:text="@string/test"
+                    android:textColor="#aeaeae"
+                    android:textSize="9sp" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="6dp"
+                    android:background="@color/dividerColor" />
+
+                          <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+
+                    <com.android.incongress.cd.conference.uis.IncongressTextView
+                        android:id="@+id/tv_look"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="5dp"
+                        android:text="@string/meeting_voice_all_msg"
+                        android:textColor="#333333"
+                        android:textSize="12sp" />
+
+                   
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:src="@drawable/me_next" />
+                </RelativeLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

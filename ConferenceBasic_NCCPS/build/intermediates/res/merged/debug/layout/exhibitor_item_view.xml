@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:padding="6dp"
+    android:minHeight="100dp" >
+
+    <ImageView
+        android:id="@+id/exhibitor_logo"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_centerVertical="true"
+        android:scaleType="fitCenter"
+         />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="5dp"
+        android:layout_toRightOf="@id/exhibitor_logo"
+        android:layout_toLeftOf="@+id/exhibitor_next"
+        android:orientation="vertical"
+        android:paddingLeft="5dp" >
+
+        <com.android.incongress.cd.conference.uis.IncongressTextView
+            android:id="@+id/exhibitor_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:text="@string/test"
+            android:textColor="#000"
+            android:textSize="14sp" />
+
+        <com.android.incongress.cd.conference.uis.IncongressTextView
+            android:id="@+id/exhibitor_location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:text="@string/test"
+            android:textColor="@color/gray"
+            android:textSize="12sp" />
+
+        <com.android.incongress.cd.conference.uis.IncongressTextView
+            android:id="@+id/exhibitor_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:singleLine="true"
+            android:text="@string/test"
+            android:textColor="@color/gray"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/exhibitor_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/me_next" />
+
+</RelativeLayout>

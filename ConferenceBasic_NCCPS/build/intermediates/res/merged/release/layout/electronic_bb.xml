@@ -1,0 +1,214 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/ll_search_part"
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:background="#C9C9CF" >
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="34dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="8"
+            android:background="#ffffff"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:paddingLeft="5dp" >
+
+            <ImageView
+                android:id="@+id/iv_search"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:src="@drawable/hysq_icon_serch" />
+
+            <com.android.incongress.cd.conference.uis.IncongressEditText
+                android:id="@+id/itv_search_text"
+                android:layout_width="match_parent"
+                android:layout_height="34dp"
+                android:layout_marginLeft="3dp"
+                android:layout_toRightOf="@id/iv_search"
+                android:background="@null"
+                android:gravity="center_vertical"
+                android:hint="@string/dzbb_search_title_author"
+                android:singleLine="true"
+                android:textColorHint="#cfcfd3"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:id="@+id/iv_cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dp"
+                android:background="@null"
+                android:src="@drawable/serch_icon_cancel"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_sort"
+            android:layout_width="0dp"
+            android:layout_height="34dp"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="2"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/itv_sort"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:gravity="center"
+                android:paddingRight="5dp"
+                android:text="@string/dzbb_sort"
+                android:textColor="@color/black" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/tip_inf_btn_unfold_selected" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/ll_search_part"
+        android:background="@color/white" >
+
+        <com.handmark.pulltorefresh.library.PullToRefreshListView
+            android:id="@+id/dzbb_listview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:cacheColorHint="@null"
+            android:divider="@drawable/divider"
+            android:dividerHeight="1.0px"
+            android:fadingEdge="vertical"
+            android:listSelector="@color/selectorgray"
+            android:smoothScrollbar="true" />
+
+        <com.android.incongress.cd.conference.uis.IncongressTextView
+            android:id="@+id/no_bb_data"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/dzbb_no_data"
+            android:visibility="gone"
+            android:textColor="@color/no_data_text_color"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/rl_sort"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="42dp"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:id="@+id/ll_bgcolor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/dzbb_bg"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:id="@+id/ll_bb_code"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:gravity="center"
+                android:scaleType="fitCenter" >
+
+                <ImageView
+                    android:id="@+id/iv_code"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/speaker_role_choose" />
+
+                <com.android.incongress.cd.conference.uis.IncongressTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/sort_by_code"
+                    android:textColor="@color/black" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_bb_author"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:gravity="center"
+                android:scaleType="fitCenter" >
+
+                <ImageView
+                    android:id="@+id/iv_author"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/speaker_role_not_choose" />
+
+                <com.android.incongress.cd.conference.uis.IncongressTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/sort_by_author"
+                    android:textColor="@color/black" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_gray"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#99afafaf"
+            android:clickable="true"
+            android:orientation="horizontal" >
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/pb_loading"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/ll_search_part"
+        android:background="#66CACACA"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <ProgressBar
+            style="@style/Widget.AppCompat.ProgressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <com.android.incongress.cd.conference.uis.IncongressTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:text="@string/loading" />
+    </LinearLayout>
+
+    <com.android.incongress.cd.conference.uis.IncongressTextView
+        android:id="@+id/itv_net_error"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:gravity="center"
+        android:text="@string/cit_net_error"
+        android:textColor="@color/gray"
+        android:textSize="18sp"
+        android:visibility="gone" />
+
+</RelativeLayout>

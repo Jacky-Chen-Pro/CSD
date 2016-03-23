@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="schedule_background_little">#af33b763</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#CACACA</color>
+    <color name="alpha_gray">#66CACACA</color>
+    <color name="no_data_text_color">#505050</color>
+    <color name="selectorgray">#0BCACACA</color>
+    <color name="dividerColor">#CACACA</color>
+    <color name="textblue">#eb6153</color>
+    <color name="darkpurple">@color/title_color</color>
+    <color name="titlebardivider">#3e3250</color>
+    <color name="divider_zjms">#E1E1E2</color>
+    <color name="progress_bar">#4ea5b6</color>
+    <color name="secretary_bottom_back">#adadad</color>
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#FF3978C2</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="normal_gray">#8b8a90</color>
+    <color name="recyler_gray">#E8E8E8</color>
+
+    <drawable name="divider">@color/dividerColor</drawable>
+    <drawable name="backgroundcolor">#FB000000</drawable>
+
+
+    <!-- for html5video -->
+    <color name="username_text">#ffffffff</color>
+    <color name="username_edit">#ff000000</color>
+    <color name="password_text">#ffffffff</color>
+    <color name="password_edit">#ff000000</color>
+    <color name="ssl_text_label">#ffffffff</color>
+    <color name="ssl_text_value">#ffffffff</color>
+    <color name="geolocation_permissions_prompt_background">#ffdddddd</color>
+
+    <color name="backgroundColor">#ffffff</color>
+    <color name="backgroundColorPress">#DBDBD3</color>
+
+    <color name="home_grid_divider">#dddddd</color>
+
+    <!-- slidingTabs -->
+    <color name="ColorPrimary">#00897B</color>
+    <color name="ColorPrimaryDark">#00695C</color>
+    <color name="tabsScrollColor">#004D40</color>
+
+    <color name="simple_progress_dialog_background_color">#96000000</color>
+    <color name="little_gray">#EAF2F0</color>
+
+    <color name="theme_color">#18B8F0</color>
+
+    <!-- CIT2016 首页色值-->
+    <color name="home_green">#18B8F0</color>
+    <color name="home_firt_blue">#183851</color>
+    <color name="home_second_blue">#183851</color>
+    <color name="home_third_blue">#183851</color>
+    <color name="ios_background_color">#EBF0F4</color>
+
+    <color name="holo_blue">#FF33E5B5</color>
+    <color name="title_color">#15293A</color>
+
+    <color name="hd_session_color_first">@color/theme_color</color>
+    <color name="hd_session_color_second">@color/home_firt_blue</color>
+
+    <color name="hd_session_divider_first">#263343</color>
+    <color name="hd_session_divider_second">#EFEEF3</color>
+
+    <color name="home_circle_num_bg">#A9568E</color>
+    <color name="divider_color">#c9c9c9c9</color>
+    <color name="scenic_xiu_comment_background">#F4F4F4</color>
+    <color name="make_post_bg">#FFEAF0F4</color>
+
+</resources>

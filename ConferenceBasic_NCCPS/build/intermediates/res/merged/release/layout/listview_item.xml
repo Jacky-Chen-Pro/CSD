@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="horizontal" >
+
+          <ImageView 
+        android:id="@+id/iv_speaker_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:src="@drawable/hyrc_icon_speaker"
+        />
+          
+    <com.android.incongress.cd.conference.uis.IncongressTextView
+        android:id="@+id/listview_item_text"
+        android:singleLine="true"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="42dp"
+        android:textColor="#3c3c3c"
+        android:layout_marginLeft="5dp"
+        android:textSize="13sp" />
+    <ImageView 
+        android:id="@+id/listview_item_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:src="@drawable/me_next"
+        />
+
+</LinearLayout>

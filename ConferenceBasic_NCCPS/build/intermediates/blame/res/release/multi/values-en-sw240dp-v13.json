@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\values-en-sw240dp-v13\\values-en-sw240dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\values-en-sw240dp\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 51,
+                        "endColumn": 59,
+                        "endOffset": 110
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\values-en-sw240dp-v13\\values-en-sw240dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\values-en-sw240dp\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 51,
+                        "endColumn": 59,
+                        "endOffset": 110
+                    }
+                }
+            }
+        ]
+    }
+]

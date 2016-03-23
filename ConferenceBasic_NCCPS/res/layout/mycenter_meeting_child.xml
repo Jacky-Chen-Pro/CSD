@@ -1,0 +1,93 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:minHeight="80dp" >
+
+    <LinearLayout
+        android:id="@+id/mycenter_metting_child_star_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:clickable="true"
+        android:focusable="false"
+        android:minHeight="80dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp" >
+
+        <CheckBox
+            android:id="@+id/mycenter_metting_child_star"
+            style="@style/StarCheckBox"
+            android:layout_width="16dp"
+            android:layout_height="18dp"
+            android:layout_gravity="center"
+            android:focusable="false" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/mycenter_metting_child_base"
+        android:layout_width="1dp"
+        android:layout_height="57dp"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/mycenter_metting_child_star_layout"
+        android:background="@drawable/hyrc_body_line_v" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="5dp"
+        android:layout_toLeftOf="@+id/mycenter_metting_child_image"
+        android:layout_toRightOf="@id/mycenter_metting_child_base"
+        android:orientation="vertical"
+        android:paddingTop="5dp" >
+
+        <com.android.incongress.cd.conference.uis.IncongressTextView
+            android:id="@+id/mycenter_metting_child_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:text="@string/test"
+            android:textColor="#000"
+            android:maxLines="2"
+            android:ellipsize="end"
+            android:textSize="14sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/mycenter_metting_child_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/hyrc_icon_time"
+                android:paddingLeft="10dp"
+                android:drawablePadding="5dp"
+                android:textSize="12sp"
+                android:singleLine="true"
+                android:textColor="#8b8a90" />
+
+            <com.android.incongress.cd.conference.uis.IncongressTextView
+                android:id="@+id/mycenter_metting_child_room"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/hyrc_icon_house"
+                android:drawablePadding="5dp"
+                android:paddingLeft="10dp"
+                android:textSize="12sp"
+                android:singleLine="true"
+                android:textColor="#8b8a90" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@id/mycenter_metting_child_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/me_next" />
+
+</RelativeLayout>

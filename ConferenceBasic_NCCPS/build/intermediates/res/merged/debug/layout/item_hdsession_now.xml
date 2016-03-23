@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="#323F4F"
+    android:orientation="horizontal"
+    android:layout_height="wrap_content">
+
+    <View
+        android:id="@+id/iv_vertical"
+        android:layout_width="4dp"
+        android:background="@color/hd_session_color_first"
+        android:layout_marginTop="@dimen/layout_margin"
+        android:layout_marginBottom="@dimen/layout_margin"
+        android:layout_height="match_parent" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_weight="8"
+        android:padding="@dimen/layout_padding"
+        android:id="@+id/ll_topic_and_location"
+        android:gravity="center_vertical"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_hdsession_location"
+            android:text="一层多功能厅"
+            android:drawablePadding="6dp"
+            android:textColor="@color/white"
+            android:drawableLeft="@drawable/hdsession_location"
+            android:textSize="@dimen/text_size_large"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_weight="1"
+            android:id="@+id/tv_hdsession_time_and_topic"
+            android:layout_width="match_parent"
+            android:text="15:00-论文报告第二场：心律失常"
+            android:layout_marginTop="6dp"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_small"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="3"
+        android:gravity="center"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_height="match_parent">
+      <ImageView
+          android:layout_weight="1"
+          android:id="@+id/iv_hdsession_question"
+          android:layout_width="wrap_content"
+          android:src="@drawable/hdsession_question"
+          android:layout_height="38dp" />
+        <ImageView
+            android:src="@drawable/hdsession_server"
+            android:layout_weight="1"
+            android:id="@+id/iv_hdsession_server"
+            android:layout_width="wrap_content"
+            android:layout_height="38dp" />
+    </LinearLayout>
+
+</LinearLayout>

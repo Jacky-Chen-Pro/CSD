@@ -1,0 +1,1890 @@
+[
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\activity_answer_question.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\activity_answer_question.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\searchfragment.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\searchfragment.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\secretary_dialog.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\secretary_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_hd_session.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_hd_session.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_single_schedule.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_single_schedule.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\speaker_layout.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\speaker_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\table_divider.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\table_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_comments.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_comments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\jchghome_titlebar_search.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\jchghome_titlebar_search.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\settings_help.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\settings_help.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\settings_about.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\settings_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\login.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_scenicxiu_makepost.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_scenicxiu_makepost.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_scenic_xiu_company_activity.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_scenic_xiu_company_activity.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\mycenter_note_child.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\mycenter_note_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\schedule_list_group.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\schedule_list_group.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_meeting_and_time.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_meeting_and_time.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\mycenter_meeting.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\mycenter_meeting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_create_review.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_create_review.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\title.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\tips_listview.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\tips_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_headerview_schedule_list.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_headerview_schedule_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\web_exhibitor_main.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\web_exhibitor_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\table_divider_gap.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\table_divider_gap.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\activity_answer_question.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\activity_answer_question.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\dialog_progress.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\dialog_progress.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_scenic_xiu_company_activity.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_scenic_xiu_company_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\message_station.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\message_station.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\dzbbdiscussion_comments_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\dzbbdiscussion_comments_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\titlebar_session_detail_more.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\titlebar_session_detail_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\exhibitor_activity_item_view.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\exhibitor_activity_item_view.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\tips_information_group.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\tips_information_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\dialog_progress.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\dialog_progress.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\CHY_CSD\\library_pulltorefresh\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_attention_popup.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_attention_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_home_cit2016.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_home_cit2016.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\titlebar_session_detail_more.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\titlebar_session_detail_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\CHY_CSD\\library_pulltorefresh\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\jchghome_titlebar_search.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\jchghome_titlebar_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_scenic_xiu.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_scenic_xiu.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\xlistview_footer.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\message_station_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\message_station_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\schedule_list_group.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\schedule_list_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_cit.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_cit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\title_right_image.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\title_right_image.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\temp_session.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\temp_session.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_my_schedule.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_my_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_meeting_schedule.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_meeting_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\title_right_textview.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\title_right_textview.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_country_head.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_country_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\my_grid_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\my_grid_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\exhibitor_activity_view.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\exhibitor_activity_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_huiyimingcheng_group.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_huiyimingcheng_group.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\login.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_hd_session.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_hd_session.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_history_post.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_history_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\settings.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\mycenter_note_editor.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\mycenter_note_editor.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\activity_photo_choose.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\activity_photo_choose.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_mytask.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_mytask.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\activity_guide.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_capture.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_capture.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_hdsession_will.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_hdsession_will.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\title.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_listview.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_listview.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_single_schedule.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_single_schedule.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_shuoliangju.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_shuoliangju.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\exhibitor_activity_gird_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\exhibitor_activity_gird_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\metting_schedule_speaker_fayan_group.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\metting_schedule_speaker_fayan_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\popup_photo_choose.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\popup_photo_choose.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\listview_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\secretary_dialog.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\secretary_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_my_schedule.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_my_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\zjms_titlebar_logout.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\zjms_titlebar_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\webview_video_cit.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\webview_video_cit.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\load_more_view.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\load_more_view.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\share_bottom_layout.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\share_bottom_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\title_hdsession.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\title_hdsession.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_jiangzhe_group.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_jiangzhe_group.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_onlywebview.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_onlywebview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\CHY_CSD\\library_pulltorefresh\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_grid_scenic_xiu.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_grid_scenic_xiu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\role_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\role_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_scenic_xiu_make_post.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_scenic_xiu_make_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\logindialog.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\logindialog.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\web_exhibitor_main.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\web_exhibitor_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\electronic_bb.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\electronic_bb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\login_forget.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\login_forget.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_search_schedule.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_search_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_messagestation_without_url.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_messagestation_without_url.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_schedule_list.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_schedule_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_myquestion.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_myquestion.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_capture.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_capture.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\activity_schedule_viewpager.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\activity_schedule_viewpager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_titlebar_shuoliangju.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_titlebar_shuoliangju.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\mycenter_note_editor.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\mycenter_note_editor.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\exhibitor_list_view.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\exhibitor_list_view.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\splash.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\activity_register_confirm.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\activity_register_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\metting_schedule_speaker_fayan_group.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\metting_schedule_speaker_fayan_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_grid_scenic_xiu.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_grid_scenic_xiu.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\title_right_image.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\title_right_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_single_schedule_list.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_single_schedule_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\speaker_layout.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\speaker_layout.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_jiangzhe.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_jiangzhe.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\listview_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_shuoliangju_nav_rightbtn.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_shuoliangju_nav_rightbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_history_post.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_history_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\scenic_xiu_title.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\scenic_xiu_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_notitfication.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_notitfication.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\mycenter_meeting_child.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\mycenter_meeting_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\activity_schedule_viewpager.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\activity_schedule_viewpager.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\dialog_alert.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\dialog_alert.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\video_loading_progress.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\video_loading_progress.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\table_divider.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\table_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\exhibitor_detail_view.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\exhibitor_detail_view.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\speaker_divider.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\speaker_divider.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_jiangzhe.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_jiangzhe.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\my_grid_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\my_grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\speaker_divider.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\speaker_divider.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_country_head.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_country_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\scenic_top.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\scenic_top.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\view_loading_video.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\view_loading_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\temp_session.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\temp_session.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hyzs_listview.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hyzs_listview.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\header_view_speaker_detail.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\header_view_speaker_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hyzs_listview.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hyzs_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_hdsession_will.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_hdsession_will.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\right_old_schedule.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\right_old_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\incongresswebview.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\incongresswebview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_webview_container.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_webview_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\gestureimageview.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\gestureimageview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\settings_contact.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\settings_contact.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\mycenter.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\mycenter.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_notitfication.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_notitfication.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\secretary_detail_fragment.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\secretary_detail_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_dzbb_image.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_dzbb_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\scenic_top.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\scenic_top.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\webview_video.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\webview_video.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\speaker_headerview.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\speaker_headerview.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\table_divider_gap.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\table_divider_gap.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_listview.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_listview.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_message_station.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_message_station.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\searchfragment.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\searchfragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_messagestation_with_url.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_messagestation_with_url.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\CHY_CSD\\library_pulltorefresh\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_i_got_question.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_i_got_question.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_my_schedule.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_my_schedule.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\simple_progress_dialog.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\simple_progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\tips_classes_list_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\tips_classes_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_me.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_me.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_comments.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_comments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_meeting_and_time.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_meeting_and_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_schedule_detail.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_schedule_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_session_detail_page.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_session_detail_page.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_scenic_xiu_notifacation.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_scenic_xiu_notifacation.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\incongresswebview.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\incongresswebview.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_shuoliangju_gird_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_shuoliangju_gird_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\dialog_alert.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\dialog_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_create_review.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_create_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\view_loading_video.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\view_loading_video.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_hdsession_divider.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_hdsession_divider.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_table.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_table.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_my_schedule_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_my_schedule_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\speaker_titlebar_role.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\speaker_titlebar_role.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\activity_secretary.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\activity_secretary.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\exhibitor_item_view.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\exhibitor_item_view.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\popup_photo_choose.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\popup_photo_choose.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_scenicxiu_makepost.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_scenicxiu_makepost.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\dzbbdiscussion_comments.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\dzbbdiscussion_comments.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_headerview_schedule_list.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_headerview_schedule_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\simple_progress_dialog.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\simple_progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\include_comment.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\include_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\settings_version.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\settings_version.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\electronic_bb.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\electronic_bb.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\settings.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\layout_notification.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\layout_notification.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_my_schedule_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_my_schedule_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_scenic_xiu_question.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_scenic_xiu_question.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_schedule_detail.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_schedule_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_meeting_schedule_list.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_meeting_schedule_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_speaker_detail_new.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_speaker_detail_new.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\share_note_background.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\share_note_background.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\include_title_make_post.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\include_title_make_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_shuoliangju_gird_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_shuoliangju_gird_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_table.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_table.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_gridview.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_gridview.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_session_detail_page.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_session_detail_page.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\activity_register.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\great_review_fragment.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\great_review_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_comments_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_comments_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_secretay.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_secretay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_attention_popup.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_attention_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\jchg_webview_video.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\jchg_webview_video.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\popup_attention_meeting_session.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\popup_attention_meeting_session.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_ask_professor.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_ask_professor.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_scenic_show_comment.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_scenic_show_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_schedule_search.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_schedule_search.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_speaker_role_meeting.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_speaker_role_meeting.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\secretary_fragment.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\secretary_fragment.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\metting_schedule_speaker_fayan.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\metting_schedule_speaker_fayan.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\gestureimageview.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\gestureimageview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\video_loading_progress.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\video_loading_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\metting_schedule_room_location.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\metting_schedule_room_location.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\activity_country_code.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\activity_country_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\secretary_detail_fragment.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\secretary_detail_fragment.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\right_old_schedule.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\right_old_schedule.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\xlistview_header.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_huiyimingcheng.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_huiyimingcheng.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\right_top_share.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\right_top_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_message_station.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_message_station.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\mycenter.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\mycenter.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\activity_secretary.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\activity_secretary.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_comments_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_comments_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_meeeting_with_flow.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_meeeting_with_flow.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_titlebar_shuoliangju.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_titlebar_shuoliangju.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_myquestion.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_myquestion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\search_child.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\search_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_hdsession_divider.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_hdsession_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_huiyimingcheng_child.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_huiyimingcheng_child.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\right_top_share.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\right_top_share.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\speaker_headerview.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\speaker_headerview.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_jiangzhe_group.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_jiangzhe_group.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\metting_schedule_room_location.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\metting_schedule_room_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\popup_attention_meeting_session.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\popup_attention_meeting_session.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\webview_video_cit.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\webview_video_cit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_scenic_xiu_make_post.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_scenic_xiu_make_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\tips_classes_list_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\tips_classes_list_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\mycenter_meeting_child.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\mycenter_meeting_child.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_messagestation_with_url.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_messagestation_with_url.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\title_right_textview.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\title_right_textview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\gestureimageviewactivity.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\gestureimageviewactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\zjms_titlebar_logout.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\zjms_titlebar_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_country_code.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_country_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\exhibitor_activity_right_button.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\exhibitor_activity_right_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\tips_information_child.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\tips_information_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\activity_register_confirm.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\activity_register_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\share_dialog.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\share_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\layout_notification.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\layout_notification.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\settings_share.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\settings_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_my_schedule.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_my_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\webview_video.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\webview_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\mycenter_note.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\mycenter_note.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_i_got_question.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_i_got_question.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\role_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\role_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\webview_video_meeting_voice.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\webview_video_meeting_voice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\exhibitor_list_view.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\exhibitor_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_scenic_show_comment.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_scenic_show_comment.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_home_cit2016.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_home_cit2016.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_shuoliangju.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_shuoliangju.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\tips_listview.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\tips_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_scenic_xiu_notifacation.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_scenic_xiu_notifacation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_onlywebview.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_onlywebview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_jiangzhe_child.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_jiangzhe_child.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\exhibitor_activity_right_button.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\exhibitor_activity_right_button.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\schedule_list_child.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\schedule_list_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_scenic_xiu_news.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_scenic_xiu_news.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_messagestation_without_url.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_messagestation_without_url.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_huiyimingcheng_group.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_huiyimingcheng_group.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_listview.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_webview_container.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_webview_container.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\settings_share.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\settings_share.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_cit.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_cit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\empty_view.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\empty_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\header_view_speaker_detail.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\header_view_speaker_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\speaker_for_cit2015.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\speaker_for_cit2015.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_meeting_schedule.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_meeting_schedule.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\tipsfragment.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\tipsfragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_listview.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_listview.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_popup_main.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_popup_main.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\mycenter_warnming.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\mycenter_warnming.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\tips_information_group.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\tips_information_group.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\great_review_fragment.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\great_review_fragment.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\mycenter_note.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\mycenter_note.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\electronic_case.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\electronic_case.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_scenic_xiu_news.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_scenic_xiu_news.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\jchg_webview_video.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\jchg_webview_video.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_meeeting_with_flow.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_meeeting_with_flow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\share_note_background.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\share_note_background.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\schedule_list_child.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\schedule_list_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_ask_professor.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_ask_professor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\webview_video_meeting_voice.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\webview_video_meeting_voice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\metting_schedule_speaker_fayan.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\metting_schedule_speaker_fayan.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_secretay.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_secretay.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\popup_main.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\popup_main.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_jiangzhe_child.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_jiangzhe_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\mycenter_warnming.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\mycenter_warnming.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\speaker_for_cit2015.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\speaker_for_cit2015.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\exhibitor_item_view.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\exhibitor_item_view.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\speaker_flowlayout.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\speaker_flowlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\xlistview_footer.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_speaker_role_meeting.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_speaker_role_meeting.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\tips_information_child.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\tips_information_child.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_home_new.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_home_new.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_single_schedule_list.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_single_schedule_list.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\settings_version.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\settings_version.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_me.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_me.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\dzbbdiscussion_comments_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\dzbbdiscussion_comments_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\message_station_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\message_station_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\settings_help.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\settings_help.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\web_main.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\web_main.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_country_code.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_country_code.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\electronic_case.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\electronic_case.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\settings_contact.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\settings_contact.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\speaker_titlebar_role.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\speaker_titlebar_role.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_gridview.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_gridview.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\message_station.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\message_station.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\login_forget.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\login_forget.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hyzs_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hyzs_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_dzbb.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_dzbb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\exhibitor_activity_view.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\exhibitor_activity_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\include_title_make_post.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\include_title_make_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\activity_photo_choose.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\activity_photo_choose.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_session_detail.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_session_detail.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\include_comment.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\include_comment.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_dzbb_image.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_dzbb_image.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hyzs_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hyzs_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\exhibitor_detail_view.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\exhibitor_detail_view.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\share_dialog.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\share_dialog.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\exhibitor_activity_item_view.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\exhibitor_activity_item_view.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_hdsession_now.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_hdsession_now.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_secretay_new.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_secretay_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_dzbb.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_dzbb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\speaker.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\speaker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\dzbbdiscussion_comments.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\dzbbdiscussion_comments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_search_schedule.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_search_schedule.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_secretay_new.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_secretay_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\xlistview_header.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_schedule_list.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_schedule_list.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\mycenter_meeting.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\mycenter_meeting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\secretary_fragment.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\secretary_fragment.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\settings_database.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\settings_database.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\line.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\line.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\scenic_xiu_title.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\scenic_xiu_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_scenic_xiu_question.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_scenic_xiu_question.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\activity_login.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\speaker_child.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\speaker_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\tipsfragment.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\tipsfragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\share_bottom_layout.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\share_bottom_layout.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\speaker.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\speaker.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_huiyimingcheng.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_huiyimingcheng.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_hdsession_now.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_hdsession_now.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\speaker_child.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\speaker_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\item_popup_main.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\item_popup_main.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\gestureimageviewactivity.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\gestureimageviewactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\speaker_flowlayout.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\speaker_flowlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\mycenter_note_child.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\mycenter_note_child.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_session_detail.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_session_detail.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\settings_about.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\settings_about.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_meeting_schedule_list.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_meeting_schedule_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\popup_main.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\popup_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\search_child.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\search_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_home_new.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_home_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\exhibitor_activity_gird_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\exhibitor_activity_gird_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_speaker_detail_new.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_speaker_detail_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_shuoliangju_nav_rightbtn.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_shuoliangju_nav_rightbtn.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\hysqhome_huiyimingcheng_child.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\hysqhome_huiyimingcheng_child.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\activity_guide.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\empty_view.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\empty_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_mytask.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_mytask.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\line.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_scenic_xiu.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_scenic_xiu.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\splash.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\fragment_schedule_search.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\fragment_schedule_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\activity_country_code.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\activity_country_code.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\title_hdsession.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\title_hdsession.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\load_more_view.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\load_more_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\settings_database.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\settings_database.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\web_main.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\web_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\layout\\logindialog.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout\\logindialog.xml"
+    }
+]

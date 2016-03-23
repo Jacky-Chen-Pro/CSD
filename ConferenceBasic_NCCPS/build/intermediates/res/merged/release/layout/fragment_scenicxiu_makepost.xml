@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/make_post_bg"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="4dp"
+            android:paddingLeft="16dp"
+            android:background="@color/make_post_bg"
+            android:paddingRight="4dp"
+            android:paddingTop="4dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/add_pic_title"
+                android:drawablePadding="3dp"
+                android:gravity="center_vertical"
+                android:text="添加图片"
+                android:textColor="@color/gray"
+                android:textSize="12sp" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:background="@color/little_gray" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="vertical"
+            android:padding="12dp">
+
+            <com.android.incongress.cd.conference.uis.MyGridView
+                android:id="@+id/gv_pic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:columnWidth="90dp"
+                android:gravity="center"
+                android:horizontalSpacing="4dp"
+                android:numColumns="3"
+                android:stretchMode="columnWidth"
+                android:verticalSpacing="4dp" />
+
+            <ImageView
+                android:id="@+id/iv_add_pic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/layout_margin"
+                android:background="@drawable/add_pic_ic" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:background="@color/little_gray" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="4dp"
+            android:background="@color/make_post_bg"
+            android:paddingLeft="16dp"
+            android:paddingRight="4dp"
+            android:paddingTop="4dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/add_text_info"
+                android:drawablePadding="3dp"
+                android:gravity="center_vertical"
+                android:text="添加文字描述"
+                android:textColor="@color/gray"
+                android:textSize="12sp" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:background="@color/little_gray" />
+
+        <EditText
+            android:id="@+id/et_post_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:gravity="start"
+            android:hint="请输入内容..."
+            android:minHeight="200dp"
+            android:paddingBottom="20dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="16dp"
+            android:textColorHint="@color/gray"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:background="@color/little_gray" />
+    </LinearLayout>
+</ScrollView>

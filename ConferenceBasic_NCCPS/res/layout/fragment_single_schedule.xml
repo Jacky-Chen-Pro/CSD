@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:id="@+id/left_top"
+        android:layout_width="80dp"
+        android:layout_height="60dp"
+        android:background="@android:color/white"
+        />
+
+    <com.android.incongress.cd.conference.uis.HScroll
+        android:layout_width="match_parent"
+        android:id="@+id/top_scrollview"
+        android:layout_toRightOf="@id/left_top"
+        android:scrollbars="none"
+        android:background="@android:color/white"
+        android:layout_height="60dp"
+        android:fillViewport="false">
+        <LinearLayout
+            android:id="@+id/ll_top_container"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+        </LinearLayout>
+    </com.android.incongress.cd.conference.uis.HScroll>
+
+    <View
+        android:layout_width="match_parent"
+        android:id="@+id/divider"
+        android:layout_below="@id/top_scrollview"
+        android:background="@color/theme_color"
+        android:layout_height="2dp" />
+
+    <com.android.incongress.cd.conference.uis.VScroll
+        android:layout_width="80dp"
+        android:scrollbars="none"
+        android:id="@+id/left_scrollview"
+        android:background="@android:color/white"
+        android:layout_below="@id/divider"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:id="@+id/ll_left_container"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+        </LinearLayout>
+    </com.android.incongress.cd.conference.uis.VScroll>
+
+    <com.android.incongress.cd.conference.uis.HVScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/divider"
+        android:id="@+id/hv_scrollview"
+        android:layout_toRightOf="@id/left_scrollview">
+        <RelativeLayout android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/rl_table_container">
+            <TableLayout
+                android:id="@+id/table_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                ></TableLayout>
+            <AbsoluteLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/abs_container"
+                ></AbsoluteLayout>
+        </RelativeLayout>
+    </com.android.incongress.cd.conference.uis.HVScrollView>
+</RelativeLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:layout_width="fill_parent"
+              android:layout_height="20dp"
+    >
+<LinearLayout 
+              android:orientation="horizontal"
+              android:layout_width="fill_parent"
+              android:layout_height="20dp"
+              android:background="#EFEEF3">
+
+    <com.android.incongress.cd.conference.uis.IncongressTextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/hysqhome_huiyimingcheng_group_textItem"
+            android:layout_marginLeft="15dp"
+            android:textSize="10sp"
+            android:background="#EFEEF3"
+            android:textColor="#8b8a90"
+            />
+</LinearLayout>
+</RelativeLayout>

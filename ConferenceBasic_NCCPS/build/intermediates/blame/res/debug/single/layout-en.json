@@ -1,0 +1,538 @@
+[
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\search_child.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\search_child.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\search_child.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\search_child.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_huiyimingcheng_group.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_huiyimingcheng_group.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hyzs_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hyzs_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\settings_about.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\settings_about.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\gestureimageviewactivity.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\gestureimageviewactivity.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_jiangzhe.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_jiangzhe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_titlebar_shuoliangju.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_titlebar_shuoliangju.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\settings_version.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\settings_version.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\exhibitor_activity_right_button.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\exhibitor_activity_right_button.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\speaker_for_cit2015.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\speaker_for_cit2015.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_huiyimingcheng.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_huiyimingcheng.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\mycenter_warnming.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\mycenter_warnming.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\metting_schedule_speaker_fayan_group.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\metting_schedule_speaker_fayan_group.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\activity_register.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\metting_schedule_detail_speech.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\metting_schedule_detail_speech.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_jiangzhe_child.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_jiangzhe_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_shuoliangju_nav_rightbtn.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_shuoliangju_nav_rightbtn.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\exhibitor_activity_item_view.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\exhibitor_activity_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\settings_version.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\settings_version.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\metting_schedule_speaker_fayan.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\metting_schedule_speaker_fayan.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\exhibitor_activity_view.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\exhibitor_activity_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\activity_login.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\web_exhibitor_main.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\web_exhibitor_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\tipsfragment.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\tipsfragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_comments.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_comments.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_jiangzhe_group.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_jiangzhe_group.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\fragment_home_cit2016.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\fragment_home_cit2016.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\activity_register.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\tipsfragment.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\tipsfragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_jiangzhe.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_jiangzhe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hyzs_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hyzs_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\settings.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\tips_information_group.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\tips_information_group.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\metting_schedule_speaker_fayan_group.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\metting_schedule_speaker_fayan_group.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\exhibitor_activity_gird_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\exhibitor_activity_gird_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\exhibitor_list_view.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\exhibitor_list_view.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\settings.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\settings.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\tips_information_child.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\tips_information_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_jiangzhe_child.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_jiangzhe_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_shuoliangju.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_shuoliangju.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_shuoliangju_nav_rightbtn.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_shuoliangju_nav_rightbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\listview_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\listview_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\include_secretary.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\include_secretary.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\searchfragment.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\searchfragment.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\exhibitor_detail_view.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\exhibitor_detail_view.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\mycenter_note_editor.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\mycenter_note_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\tips_classes_list_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\tips_classes_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\title.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\mycenter_warnming.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\mycenter_warnming.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\login.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\web_main.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\web_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\logindialog.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\logindialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\speaker_for_cit2015.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\speaker_for_cit2015.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\splash.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\exhibitor_activity_gird_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\exhibitor_activity_gird_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\listview_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\listview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\incongresswebview.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\incongresswebview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_jiangzhe_group.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_jiangzhe_group.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\web_main.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\web_main.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\speaker.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\speaker.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\fragment_session_detail_page.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\fragment_session_detail_page.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\gestureimageview.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\gestureimageview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\metting_schedule_speaker_fayan.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\metting_schedule_speaker_fayan.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_listview.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\custom_activity.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\custom_activity.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\mycenter_note_child.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\mycenter_note_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\mycenter_note.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\mycenter_note.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\mycenter_note.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\mycenter_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\tips_information_group.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\tips_information_group.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hyzs_listview.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hyzs_listview.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\splash.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_huiyimingcheng_group.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_huiyimingcheng_group.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_titlebar_shuoliangju.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_titlebar_shuoliangju.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\mycenter_meeting.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\mycenter_meeting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\gestureimageviewactivity.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\gestureimageviewactivity.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\mycenter_meeting.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\mycenter_meeting.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\settings_contact.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\settings_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\settings_about.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\settings_about.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_shuoliangju_gird_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_shuoliangju_gird_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\settings_database.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\settings_database.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\login_forget.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\login_forget.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\exhibitor_activity_view.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\exhibitor_activity_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\fragment_session_detail_page.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\fragment_session_detail_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\login.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\login.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\activity_login.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\fragment_home_cit2016.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\fragment_home_cit2016.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\fragment_capture.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\fragment_capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\mycenter_note_child.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\mycenter_note_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\tips_information_child.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\tips_information_child.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\exhibitor_activity_right_button.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\exhibitor_activity_right_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\searchfragment.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\searchfragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\exhibitor_item_view.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\exhibitor_item_view.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\activity_register_confirm.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\activity_register_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\activity_register_confirm.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\activity_register_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\metting_schedule_detail_speech.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\metting_schedule_detail_speech.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\mycenter_meeting_child.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\mycenter_meeting_child.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\title.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\gestureimageview.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\gestureimageview.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\settings_share.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\settings_share.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_comments_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_comments_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\tips_classes_list_item.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\tips_classes_list_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\mycenter.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\mycenter.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_comments.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_comments.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\incongresswebview.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\incongresswebview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\settings_share.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\settings_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\exhibitor_activity_item_view.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\exhibitor_activity_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\settings_database.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\settings_database.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_huiyimingcheng_child.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_huiyimingcheng_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\exhibitor_detail_view.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\exhibitor_detail_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\settings_contact.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\settings_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\mycenter.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\mycenter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_huiyimingcheng.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_huiyimingcheng.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_shuoliangju.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_shuoliangju.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\exhibitor_item_view.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\exhibitor_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hyzs_listview.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hyzs_listview.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\mycenter_meeting_child.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\mycenter_meeting_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\include_secretary.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\include_secretary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\mycenter_note_editor.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\mycenter_note_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\speaker.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\speaker.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\custom_activity.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\custom_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\exhibitor_list_view.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\exhibitor_list_view.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\logindialog.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\logindialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_listview.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\settings_help.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\settings_help.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_huiyimingcheng_child.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_huiyimingcheng_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\fragment_capture.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\fragment_capture.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\settings_help.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\settings_help.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\web_exhibitor_main.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\web_exhibitor_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_shuoliangju_gird_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_shuoliangju_gird_item.xml"
+    },
+    {
+        "merged": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\login_forget.xml",
+        "source": "E:\\A-Company_Project_studio\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\login_forget.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-en\\hysqhome_comments_item.xml",
+        "source": "C:\\Users\\Jacky\\Desktop\\Desktop\\CHY_CSD\\ConferenceBasic_NCCPS\\res\\layout-en\\hysqhome_comments_item.xml"
+    }
+]
